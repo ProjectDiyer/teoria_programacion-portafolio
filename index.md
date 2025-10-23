@@ -8,7 +8,7 @@
 > Conceptos clave sobre algoritmos, variables, tipos de datos y estructuras básicas.  
 > 💡 *Comprender la lógica detrás de un programa es el primer paso para dominar cualquier lenguaje.*
 
-[Algirtmos](Unidad 1.md)
+#### [Algirtmos](Unidad 1.md)
 ---
 
 ### ⚙️ Unidad 2 — Estructuras de Control y Funciones
