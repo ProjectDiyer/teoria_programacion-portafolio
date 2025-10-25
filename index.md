@@ -1,6 +1,22 @@
-### [⬅️ Volver a la carátula](./Caratula.md)
+<div align="center">
 
----
+<!-- Botón para volver a la carátula -->
+<a href="./README.md" style="
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin-bottom: 20px;
+">
+⬅️ Volver a la Carátula
+</a>
+
+</div>
 
 # 💻 Teoría de la Programación
 
@@ -11,21 +27,66 @@
 ### 🧩 Unidad 1 — Fundamentos de la Programación
 > Introducción a los principios esenciales de la programación: algoritmos, estructuras básicas y comprensión lógica de los procesos computacionales.
 
-[🔗 **Ir a la Unidad 1**](./Unidad%201.md)
+<div align="center">
+<a href="./Unidad%201.md" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 0;
+">
+🔗 Ir a la Unidad 1
+</a>
+</div>
 
 ---
 
 ### ⚙️ Unidad 2 — Estructuras de Control y Funciones
 > Estudio de los mecanismos que permiten controlar el flujo de ejecución, aplicar condiciones y crear funciones que optimizan el código.
 
-[🔗 **Ir a la Unidad 2**](./Unidad%202.md)
+<div align="center">
+<a href="./Unidad%202.md" style="
+    background: linear-gradient(90deg, #F4511E, #FF7043);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 0;
+">
+🔗 Ir a la Unidad 2
+</a>
+</div>
 
 ---
 
 ### 🧱 Unidad 3 — Programación Modular y Paradigmas
 > Análisis de la modularidad, la reutilización del código y los diferentes enfoques o paradigmas de la programación moderna.
 
-[🔗 **Ir a la Unidad 3**](./Unidad%203.md)
+<div align="center">
+<a href="./Unidad%203.md" style="
+    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 0;
+">
+🔗 Ir a la Unidad 3
+</a>
+</div>
 
 ---
 
@@ -47,4 +108,22 @@
 
 ---
 
-### [⬅️ Volver a la carátula](./Caratula.md)
+<div align="center">
+
+<!-- Botón de regreso a la carátula -->
+<a href="./README.md" style="
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin-top: 20px;
+">
+⬅️ Volver a la Carátula
+</a>
+
+</div>
