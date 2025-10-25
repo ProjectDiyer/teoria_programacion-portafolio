@@ -1,20 +1,17 @@
-<div align="center">
-
-# 📘 **Universidad Nacional de Loja**  
+# 📘 Universidad Nacional de Loja  
 ## 🏛️ *Carrera de Ingeniería en Sistemas*
 
 ---
 
-### 💻 **Portafolio Digital de Aprendizaje**
+### 💻 Portafolio Digital de Aprendizaje
 #### 🧩 *Asignatura:* **Teoría de la Programación**  
 #### 👨‍🏫 *Docente:* **Ing. Lissette Geoconda Lopez Faican**  
 #### 👨‍🎓 *Estudiante:* **Diyer Arley Torres Troya**  
 #### 📆 *Ciclo:* Primer ciclo  
+
 ---
 
-</div>
-
-## 📂 **Descripción General**
+## 📂 Descripción General
 
 Este portafolio digital recopila los aprendizajes desarrollados en la asignatura **Teoría de la Programación**, abordando los fundamentos esenciales de la lógica computacional, el diseño de algoritmos y la estructura de programas.  
 
@@ -22,10 +19,8 @@ Su propósito es evidenciar el **proceso de aprendizaje progresivo** mediante la
 
 ---
 
-<div align="center">
-
-<!-- Botón premium con gradiente, sombra y borde redondeado -->
-<a href="./principal.md" style="
+<p align="center">
+  <a href="./principal.md" style="
     background: linear-gradient(90deg, #4CAF50, #45A049);
     color: white;
     padding: 15px 35px;
@@ -37,18 +32,15 @@ Su propósito es evidenciar el **proceso de aprendizaje progresivo** mediante la
     font-weight: bold;
     box-shadow: 0 4px 15px rgba(0,0,0,0.3);
     transition: 0.3s;
-">
-📖 **Ir al Índice del Portafolio**
-</a>
-
-
-</div>
+  ">
+    📖 Ir al Índice del Portafolio
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-✍️ *Universidad Nacional de Loja — 2025*  
-🌐 *Portafolio Académico — GitHub Pages*
-
-</div>
+<p align="center">
+  ✍️ Universidad Nacional de Loja — 2025  
+  <br>
+  🌐 Portafolio Académico — GitHub Pages
+</p>
