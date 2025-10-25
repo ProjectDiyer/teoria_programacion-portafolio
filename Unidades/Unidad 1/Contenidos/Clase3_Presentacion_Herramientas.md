@@ -107,7 +107,7 @@ gcc HolaMundo.c -o HolaMundo.exe
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase anterior -->
-<a href="./Clase2_ElementosBasicos.md" style="
+<a href="./Clase2_Presentacion_Elementos.md" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
@@ -122,7 +122,7 @@ gcc HolaMundo.c -o HolaMundo.exe
 </a>
 
 <!-- Botón Clase siguiente -->
-<a href="./Clase4_ProgramacionAltoNivel.md" style="
+<a href="./Clase4_Presentacion_Lenguajes.md" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
