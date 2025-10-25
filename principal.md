@@ -117,7 +117,7 @@ title: Portada
 <div align="center">
 
 <!-- Botón de regreso a la carátula -->
-<a href="./Caratula" style="
+<a href="./index" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
