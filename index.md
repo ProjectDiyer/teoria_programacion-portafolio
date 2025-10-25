@@ -1,3 +1,7 @@
+### [⬅️ Volver a la carátula](./Caratula.md)
+
+---
+
 # 💻 Teoría de la Programación
 
 ## 🗂️ Portafolio Digital de Aprendizaje
@@ -40,3 +44,7 @@
 
 ### 🤖 Uso de la IA Generativa
 > La **IA generativa** potencia el aprendizaje al ofrecer asistencia personalizada, generación de ejemplos y optimización de código mediante herramientas como ChatGPT o GitHub Copilot.
+
+---
+
+### [⬅️ Volver a la carátula](./Caratula.md)
