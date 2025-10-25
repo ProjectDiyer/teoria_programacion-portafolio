@@ -92,6 +92,40 @@ El presupuesto para el cliente Juan Perez es: $1800
 
 ---
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<!-- Botón Clase anterior -->
+<a href="./Clase1_Presentacion_Conceptos.md" style="
+    background: linear-gradient(90deg, #F4511E, #FF7043);
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+">
+⬅️ Clase 1
+</a>
+
+<!-- Botón Clase siguiente -->
+<a href="./Clase3_Presentacion_Herramientas.md" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+">
+Clase 3 ➡️
+</a>
+
+</div>
+
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
