@@ -1,6 +1,42 @@
-/* Oculta la barra de navegación completa de Minima */
-.site-header,
-.top-bar,
-.site-nav {
-    display: none !important;
+/* Centrar botones y dar estilo */
+a.custom-button {
+    background: linear-gradient(90deg, #4CAF50, #45A049);
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 10px 5px;
+    transition: 0.3s;
+    text-align: center;
+}
+
+a.custom-button:hover {
+    background: linear-gradient(90deg, #45A049, #4CAF50);
+}
+
+/* Centrar contenido general */
+div.center-content {
+    text-align: center;
+}
+
+/* Espaciado entre secciones */
+.section {
+    margin: 30px 0;
+}
+
+/* Personalizar títulos */
+h1, h2, h3, h4 {
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+}
+
+/* Personalizar párrafos */
+p {
+    font-family: 'Verdana', sans-serif;
+    color: #555555;
+    line-height: 1.6;
 }
