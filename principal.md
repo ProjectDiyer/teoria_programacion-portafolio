@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Botón para volver a la carátula -->
-<a href="./README.md" style="
+<a href="./index.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -111,7 +111,7 @@
 <div align="center">
 
 <!-- Botón de regreso a la carátula -->
-<a href="./README.md" style="
+<a href="./index.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
