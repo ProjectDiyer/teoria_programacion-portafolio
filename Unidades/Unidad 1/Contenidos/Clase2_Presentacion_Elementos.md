@@ -6,7 +6,7 @@ title: Clase 2
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad1" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -100,7 +100,7 @@ El presupuesto para el cliente Juan Perez es: $1800
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase anterior -->
-<a href="./Clase1_Presentacion_Conceptos.md" style="
+<a href="./Clase1_Presentacion_Conceptos" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
@@ -115,7 +115,7 @@ El presupuesto para el cliente Juan Perez es: $1800
 </a>
 
 <!-- Botón Clase siguiente -->
-<a href="./Clase3_Presentacion_Herramientas.md" style="
+<a href="./Clase3_Presentacion_Herramientas" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
@@ -134,7 +134,7 @@ Clase 3 ➡️
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad1" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
