@@ -6,7 +6,7 @@ title: Unidad 1
 <div align="center">
 
 <!-- Botón para volver al índice -->
-<a href="../../principal.md" style="
+<a href="../../principal" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -40,7 +40,7 @@ title: Unidad 1
 
 <div align="center">
 
-<a href="./Contenidos/Clase1_Presentacion_Conceptos.md" style="
+<a href="./Contenidos/Clase1_Presentacion_Conceptos" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -55,7 +55,7 @@ title: Unidad 1
 🧮 Clase 1 — Presentación Conceptos fundamentales de Algoritmos
 </a>
 
-<a href="./Contenidos/Clase2_Presentacion_Elementos.md" style="
+<a href="./Contenidos/Clase2_Presentacion_Elementos" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 10px 25px;
@@ -70,7 +70,7 @@ title: Unidad 1
 🧱 Clase 2 — Presentación Elementos básicos de algoritmos y programas
 </a>
 
-<a href="./Contenidos/Clase3_Presentacion_Herramientas.md" style="
+<a href="./Contenidos/Clase3_Presentacion_Herramientas" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
@@ -85,7 +85,7 @@ title: Unidad 1
 📊 Clase 3 — Presentación Herramientas para programación
 </a>
 
-<a href="./Contenidos/Clase4_Presentacion_Lenguajes.md" style="
+<a href="./Contenidos/Clase4_Presentacion_Lenguajes" style="
     background: linear-gradient(90deg, #FF8F00, #FFC107);
     color: white;
     padding: 10px 25px;
@@ -109,7 +109,7 @@ title: Unidad 1
 
 <div align="center">
 
-<a href="./Actividades/herramientas_algoritmos.md" style="
+<a href="./Actividades/herramientas_algoritmos" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -124,7 +124,7 @@ title: Unidad 1
 🧩 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
 </a>
 
-<a href="./Actividades/instalacion_lenguajes.md" style="
+<a href="./Actividades/instalacion_lenguajes" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 10px 25px;
@@ -139,7 +139,7 @@ title: Unidad 1
 💻 Instalación de lenguajes de programación (C, Python o Java)
 </a>
 
-<a href="./Actividades/primer_acercamiento.md" style="
+<a href="./Actividades/primer_acercamiento" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
@@ -154,7 +154,7 @@ title: Unidad 1
 ⚙️ Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo
 </a>
 
-<a href="./Actividades/del_diseno_al_programa.md" style="
+<a href="./Actividades/del_diseno_al_programa" style="
     background: linear-gradient(90deg, #FF8F00, #FFC107);
     color: white;
     padding: 10px 25px;
@@ -181,7 +181,7 @@ title: Unidad 1
 <div align="center">
 
 <!-- Botón de regreso al índice -->
-<a href="../../principal.md" style="
+<a href="../../principal" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
