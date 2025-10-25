@@ -6,7 +6,6 @@
 ---
 
 ### 💻 **Portafolio Digital de Aprendizaje**
-
 #### 🧩 *Asignatura:* **Teoría de la Programación**  
 #### 👨‍🏫 *Docente:* **Ing. Lissette Geoconda Lopez Faican**  
 #### 👨‍🎓 *Estudiante:* **Diyer Arley Torres Troya**  
