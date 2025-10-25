@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Portafolio Digital"
+permalink: /portafolio/
+---
+
 <div align="center">
 
 # 📘 **Universidad Nacional de Loja**  
