@@ -1,1 +1,114 @@
+<div align="center">
+
+<!-- Botón para volver a la Unidad 1 -->
+<a href="../Unidad 1.md" style="
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin-bottom: 20px;
+">
+⬅️ Volver a Unidad 1
+</a>
+
+</div>
+
+# 🧱 Clase 2 — Presentación Elementos básicos de algoritmos y programas
+
+---
+
+## 📄 Descripción
+
+En esta clase vimos los conceptos fundamentales relacionados con los algoritmos y programas en programación.  
+Puedes revisar la [presentación completa de la clase](./Archivos/teoria_programacion_unidad1_tema2.pptx.pdf) para más detalles.
+
+Se explicó qué son los **datos** y la **información**, destacando que los datos son cifras, letras o palabras que la computadora procesa y almacena en formatos específicos.  
+
+Se profundizó en los **tipos de datos simples**:
+
+- **Enteros (int):** números sin parte decimal, positivos, negativos o cero.  
+- **Reales (float o double):** números con punto decimal, positivos o negativos.  
+- **Lógicos (boolean):** solo toman los valores `verdadero` o `falso`.  
+- **Carácter (char):** un solo carácter, entre comillas.  
+- **Cadena:** secuencias de caracteres agrupados, también entre comillas.  
+
+Se abordaron **variables** (almacenan datos y siguen tipos y notaciones como Camel Case) y **constantes** (valores que no cambian durante la ejecución).  
+
+Respecto a los elementos básicos de los algoritmos, vimos instrucciones de **control secuencial**:
+
+```text
+Asignación de valores
+Lectura de datos
+Escritura de datos
+```
+
+Se introdujeron las **expresiones** (aritméticas, lógicas y relacionales) y las **pruebas de escritorio**, útiles para verificar la lógica paso a paso.  
+
+Se revisaron las **estructuras principales**: secuenciales, condicionales y ciclos, y los pasos para escribir algoritmos en pseudocódigo o diagramas de flujo, enfatizando analizar el problema, desarrollar el algoritmo y validar con pruebas.
+
+---
+
+## 🧩 Actividad
+
+**Problema:**  
+Un almacén requiere determinar cuánto cobrar por trabajos de pintura. Considere que se cobra por m². Realice el algoritmo que permita ir generando presupuestos para cada cliente.
+
+**Ejemplo de pseudocódigo en PSeInt:**
+
+```pseudocode
+Algoritmo PresupuestoPintura
+    Definir precio_m2, metros_cuadrados, total Como Real
+    Definir cliente Como Cadena
+
+    Escribir "Ingrese el nombre del cliente:"
+    Leer cliente
+    Escribir "Ingrese el precio por m2:"
+    Leer precio_m2
+    Escribir "Ingrese la cantidad de metros cuadrados a pintar:"
+    Leer metros_cuadrados
+
+    total <- precio_m2 * metros_cuadrados
+
+    Escribir "El presupuesto para el cliente ", cliente, " es: $", total
+FinAlgoritmo
+```
+
+```terminal
+Ingrese el nombre del cliente:
+> Juan Perez
+Ingrese el precio por m2:
+> 15
+Ingrese la cantidad de metros cuadrados a pintar:
+> 120
+El presupuesto para el cliente Juan Perez es: $1800
+```
+
+> Esta actividad permitió practicar el uso de variables, entradas/salidas y operaciones básicas en pseudocódigo para resolver problemas reales.
+
+---
+
+<div align="center">
+
+<!-- Botón para volver a la Unidad 1 -->
+<a href="../Unidad 1.md" style="
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin-top: 20px;
+">
+⬅️ Volver a Unidad 1
+</a>
+
+</div>
 
