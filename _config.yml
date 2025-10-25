@@ -18,3 +18,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom
