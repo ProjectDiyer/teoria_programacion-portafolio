@@ -152,7 +152,7 @@ Milímetros: 150000.00
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase anterior -->
-<a href="./Clase3_Herramientas.md" style="
+<a href="./Clase3_Presentacion_Herramientas.md" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
