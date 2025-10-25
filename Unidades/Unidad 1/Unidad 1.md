@@ -4,20 +4,20 @@
 
 ## 📘 Contenidos de la Unidad
 
-- [🧮 Algoritmos, pseudocódigo y diagramas de flujo](./contenidos/algoritmos_pseudocodigo_diagramas.md)
-- [🧱 Programación por bloques](./contenidos/programacion_bloques.md)
-- [📊 Ejemplos de algoritmos con estructuras lineales/secuenciales](./contenidos/estructuras_lineales.md)
-- [⚠️ Principales dificultades en la aplicación de los contenidos](./contenidos/dificultades_aplicacion.md)
-- [💭 Reflexión crítica de los aprendizajes de la unidad](./contenidos/reflexion_aprendizajes.md)
+- [🧮 Algoritmos, pseudocódigo y diagramas de flujo](./Contenidos/algoritmos_pseudocodigo_diagramas.md)
+- [🧱 Programación por bloques](./Contenidos/programacion_bloques.md)
+- [📊 Ejemplos de algoritmos con estructuras lineales/secuenciales](./Contenidos/estructuras_lineales.md)
+- [⚠️ Principales dificultades en la aplicación de los contenidos](./Contenidos/dificultades_aplicacion.md)
+- [💭 Reflexión crítica de los aprendizajes de la unidad](./Contenidos/reflexion_aprendizajes.md)
 
 ---
 
 ## 🧠 Tareas Entregadas
 
-- [🧩 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](./tareas/herramientas_algoritmos.md)
-- [💻 Instalación de lenguajes de programación (C, Python o Java)](./tareas/instalacion_lenguajes.md)
-- [⚙️ Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo](./tareas/primer_acercamiento.md)
-- [🚀 Del diseño del algoritmo a la construcción del programa](./tareas/del_diseno_al_programa.md)
+- [🧩 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](./Actividades/herramientas_algoritmos.md)
+- [💻 Instalación de lenguajes de programación (C, Python o Java)](./Actividades/instalacion_lenguajes.md)
+- [⚙️ Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo](./Actividades/primer_acercamiento.md)
+- [🚀 Del diseño del algoritmo a la construcción del programa](./Actividades/del_diseno_al_programa.md)
 
 ---
 
