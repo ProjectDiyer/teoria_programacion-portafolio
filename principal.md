@@ -3,7 +3,6 @@ layout: default
 title: Portada
 ---
 
-
 <div align="center">
 
 <!-- Botón para volver a la carátula -->
