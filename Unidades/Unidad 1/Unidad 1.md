@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Botón para volver al índice -->
-<a href="../../README.md" style="
+<a href="../../index.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -28,7 +28,6 @@
 - Programación por bloques
 - Ejemplos de algoritmos con estructuras lineales/secuenciales
 - Principales dificultades en la aplicación de los contenidos
-- Reflexión crítica de los aprendizajes de la unidad
 
 ---
 
@@ -81,6 +80,21 @@
 📊 Clase 3 — Programación por bloques
 </a>
 
+<a href="./Clases/Clase3_Bloques.md" style="
+    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 0;
+">
+📊 Clase 4 — Programación por bloques
+</a>
+
 </div>
 
 ---
@@ -95,7 +109,7 @@
 <div align="center">
 
 <!-- Botón de regreso al índice -->
-<a href="../../README.md" style="
+<a href="../../index.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
