@@ -6,7 +6,7 @@ title: Clase 3
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad1" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -112,7 +112,7 @@ gcc HolaMundo.c -o HolaMundo.exe
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase anterior -->
-<a href="./Clase2_Presentacion_Elementos.md" style="
+<a href="./Clase2_Presentacion_Elementos" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
@@ -127,7 +127,7 @@ gcc HolaMundo.c -o HolaMundo.exe
 </a>
 
 <!-- Botón Clase siguiente -->
-<a href="./Clase4_Presentacion_Lenguajes.md" style="
+<a href="./Clase4_Presentacion_Lenguajes" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
@@ -146,7 +146,7 @@ Clase 4 ➡️
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad1" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
