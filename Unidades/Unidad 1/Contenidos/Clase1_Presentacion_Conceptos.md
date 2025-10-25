@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad 1.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -79,7 +79,7 @@ La suma es: 12
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad 1.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
