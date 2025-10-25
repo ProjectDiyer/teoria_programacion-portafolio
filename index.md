@@ -1,25 +1,9 @@
-
+|
+||||
 ---
 layout: page
 title: "Portafolio Digital de Aprendizaje"
 ---
-
-<div align="center">
-
-# 📘 **Universidad Nacional de Loja**  
-## 🏛️ *Carrera de Ingeniería en Sistemas*
-
----
-
-### 💻 **Portafolio Digital de Aprendizaje**
-
-#### 🧩 *Asignatura:* **Teoría de la Programación**  
-#### 👨‍🏫 *Docente:* **Ing. ___________________________**  
-#### 👨‍🎓 *Estudiante:* **____________________________**  
-#### 📆 *Ciclo:* ________  
-#### 🗓️ *Periodo Académico:* ________  
-#### 🕓 *Fecha de entrega:* _______________________
-</div>
 
 <div align="center">
 
