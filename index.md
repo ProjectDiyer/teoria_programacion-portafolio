@@ -29,7 +29,7 @@ Su propósito es evidenciar el **proceso de aprendizaje progresivo** mediante la
 <div align="center">
 
 <!-- Botón premium con gradiente, sombra y borde redondeado -->
-<a href="./index.md" style="
+<a href="./principal.md" style="
     background: linear-gradient(90deg, #4CAF50, #45A049);
     color: white;
     padding: 15px 35px;
