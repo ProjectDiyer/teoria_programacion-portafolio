@@ -1,5 +1,4 @@
-|
-||||
+
 ---
 layout: page
 title: "Portafolio Digital de Aprendizaje"
