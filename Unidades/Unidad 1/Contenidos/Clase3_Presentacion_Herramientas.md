@@ -1,3 +1,8 @@
+---
+layout: default
+title: Clase 3
+---
+
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
