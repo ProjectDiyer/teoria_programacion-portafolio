@@ -24,7 +24,7 @@
 
 ---
 
-### 🧩 Unidad 1 — Fundamentos de la Programación
+### 🧩 Unidad 1 — Fundamentos de Algoritmos y Programas
 > Introducción a los principios esenciales de la programación: algoritmos, estructuras básicas y comprensión lógica de los procesos computacionales.
 
 <div align="center">
@@ -46,7 +46,7 @@
 
 ---
 
-### ⚙️ Unidad 2 — Estructuras de Control y Funciones
+### ⚙️ Unidad 2 — Estructuras Algorítmicas de Control
 > Estudio de los mecanismos que permiten controlar el flujo de ejecución, aplicar condiciones y crear funciones que optimizan el código.
 
 <div align="center">
@@ -68,7 +68,7 @@
 
 ---
 
-### 🧱 Unidad 3 — Programación Modular y Paradigmas
+### 🧱 Unidad 3 — Programación Modular y Estructuras de Datos Estáticas
 > Análisis de la modularidad, la reutilización del código y los diferentes enfoques o paradigmas de la programación moderna.
 
 <div align="center">
