@@ -1,4 +1,6 @@
-.site-header {
-  display: none;
+/* Oculta la barra de navegación completa de Minima */
+.site-header,
+.top-bar,
+.site-nav {
+    display: none !important;
 }
-
