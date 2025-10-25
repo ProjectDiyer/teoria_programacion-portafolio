@@ -3,8 +3,7 @@ description: "Proyectos, prácticas y aprendizajes desarrollados en la materia d
 theme: minima
 
 # Información personal
-author:
-  name: "Diyer Torres"
+author: "Diyer Torres"
 
 # Personalización del tema
 show_excerpts: true
