@@ -25,7 +25,7 @@
 ## 📄 Descripción
 
 En esta clase vimos los fundamentos y etapas para resolver problemas mediante algoritmos y programas en computadoras.  
-Puedes revisar la [presentación completa de la clase](./Archivos/teoria_programacion_unidad1_tema1.pptx.pdf) para más detalles.
+Puedes revisar la [presentación completa de la clase]([./Archivos/teoria_programacion_unidad1_tema1.pptx.pdf](https://drive.google.com/file/d/1aYV_ripCYtv78KewLJXzWIeQKpVe1JXl/view?usp=sharing)) para más detalles.
 
 Se explicó el proceso general de resolución de problemas mediante la interacción **hardware-software**, definiendo un algoritmo como un conjunto de pasos secuenciales que transforman datos de entrada en resultados útiles.  
 
