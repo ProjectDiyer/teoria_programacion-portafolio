@@ -6,7 +6,7 @@ title: Clase 1
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad1" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -84,7 +84,7 @@ La suma es: 12
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase siguiente -->
-<a href="./Clase2_Presentacion_Elementos.md" style="
+<a href="./Clase2_Presentacion_Elementos" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
@@ -104,7 +104,7 @@ Clase 2 ➡️
 <div align="center">
 
 <!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1.md" style="
+<a href="../Unidad1" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
