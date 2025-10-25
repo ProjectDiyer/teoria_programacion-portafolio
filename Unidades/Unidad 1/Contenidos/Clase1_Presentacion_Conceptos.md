@@ -24,8 +24,6 @@
 
 ## 📄 Descripción
 
-## 📄 Descripción
-
 En esta clase vimos los fundamentos y etapas para resolver problemas mediante algoritmos y programas en computadoras.  
 Puedes revisar la [presentación completa de la clase](./Archivos/teoria_programacion_unidad1_tema1.pptx.pdf) para más detalles.
 
