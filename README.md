@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Contacto"
+permalink: /contacto/
+---
+
 <div align="center">
 
 # 📘 **Universidad Nacional de Loja**  
