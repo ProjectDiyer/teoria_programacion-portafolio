@@ -1,8 +1,3 @@
----
-layout: page
-title: "Portafolio Digital de Aprendizaje"
----
-
 <div align="center">
 
 # 📘 **Universidad Nacional de Loja**  
@@ -13,12 +8,9 @@ title: "Portafolio Digital de Aprendizaje"
 ### 💻 **Portafolio Digital de Aprendizaje**
 
 #### 🧩 *Asignatura:* **Teoría de la Programación**  
-#### 👨‍🏫 *Docente:* **Ing. ___________________________**  
-#### 👨‍🎓 *Estudiante:* **____________________________**  
-#### 📆 *Ciclo:* ________  
-#### 🗓️ *Periodo Académico:* ________  
-#### 🕓 *Fecha de entrega:* _______________________
-
+#### 👨‍🏫 *Docente:* **Ing. Lissette Geoconda Lopez Faican**  
+#### 👨‍🎓 *Estudiante:* **Diyer Arley Torres Troya**  
+#### 📆 *Ciclo:* Primer ciclo  
 ---
 
 </div>
