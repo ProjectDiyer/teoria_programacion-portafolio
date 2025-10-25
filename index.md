@@ -13,7 +13,7 @@ title: Caratula
 #### 🧩 *Asignatura:* **Teoría de la Programación**  
 #### 👨‍🏫 *Docente:* **Ing. Lissette Geoconda Lopez Faican**  
 #### 👨‍🎓 *Estudiante:* **Diyer Arley Torres Troya**  
-#### 📆 *Ciclo:* Primer ciclo  
+#### 📆 *Ciclo:* **Primer ciclo**
 
 ---
 
