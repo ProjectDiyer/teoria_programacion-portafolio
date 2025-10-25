@@ -79,7 +79,7 @@ La suma es: 12
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase siguiente -->
-<a href="./Clase3_Presentacion_Elementos.md" style="
+<a href="./Clase2_Presentacion_Elementos.md" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
