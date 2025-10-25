@@ -28,7 +28,7 @@
 > Introducción a los principios esenciales de la programación: algoritmos, estructuras básicas y comprensión lógica de los procesos computacionales.
 
 <div align="center">
-<a href="./Unidad%201.md" style="
+<a href="./Unidades/Unidad 1/Unidad 1.md" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -50,7 +50,7 @@
 > Estudio de los mecanismos que permiten controlar el flujo de ejecución, aplicar condiciones y crear funciones que optimizan el código.
 
 <div align="center">
-<a href="./Unidad%202.md" style="
+<a href="./Unidades/Unidad 2/Unidad 2.md" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 10px 25px;
@@ -72,7 +72,7 @@
 > Análisis de la modularidad, la reutilización del código y los diferentes enfoques o paradigmas de la programación moderna.
 
 <div align="center">
-<a href="./Unidad%203.md" style="
+<a href="./Unidades/Unidad 3/Unidad 3.md" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
