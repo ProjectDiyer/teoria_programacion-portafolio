@@ -48,5 +48,5 @@ Su propósito es evidenciar el **proceso de aprendizaje progresivo** mediante la
 <p align="center">
   ✍️ Universidad Nacional de Loja — 2025  
   <br>
-  🌐 Portafolio Académico — GitHub Pages
+  🌐 Portafolio Académico
 </p>
