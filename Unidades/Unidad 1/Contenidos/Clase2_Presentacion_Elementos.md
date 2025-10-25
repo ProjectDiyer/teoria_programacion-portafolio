@@ -25,7 +25,7 @@
 ## 📄 Descripción
 
 En esta clase vimos los conceptos fundamentales relacionados con los algoritmos y programas en programación.  
-Puedes revisar la [presentación completa de la clase](./Archivos/teoria_programacion_unidad1_tema2.pptx.pdf) para más detalles.
+Puedes revisar la [presentación completa de la clase](https://drive.google.com/file/d/1HkqK8f4z72-7lD0R3cHGEqTIlHC1l3L1/view?usp=sharing) para más detalles.
 
 Se explicó qué son los **datos** y la **información**, destacando que los datos son cifras, letras o palabras que la computadora procesa y almacena en formatos específicos.  
 
