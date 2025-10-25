@@ -25,7 +25,7 @@ Su propósito es evidenciar el **proceso de aprendizaje progresivo** mediante la
 ---
 
 <p align="center">
-  <a href="./principal.md" style="
+  <a href="/Portada/" style="
     background: linear-gradient(90deg, #4CAF50, #45A049);
     color: white;
     padding: 15px 35px;
