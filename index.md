@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portada
+title: Caratula
 
 ---
 # 📘 Universidad Nacional de Loja  
