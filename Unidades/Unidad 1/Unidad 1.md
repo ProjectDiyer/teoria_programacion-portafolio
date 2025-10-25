@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<a href="./Clases/Clase1_Algoritmos.md" style="
+<a href="./Contenidos/Clase1_Presentacion_Conceptos.md" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -47,10 +47,10 @@
     display: inline-block;
     margin: 5px 0;
 ">
-🧮 Clase 1 — Algoritmos y pseudocódigo
+🧮 Clase 1 — Presentación Conceptos fundamentales de Algoritmos
 </a>
 
-<a href="./Clases/Clase2_Estructuras.md" style="
+<a href="./Contenidos/Clase2_Presentacion_Elementos.md" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 10px 25px;
@@ -62,10 +62,10 @@
     display: inline-block;
     margin: 5px 0;
 ">
-🧱 Clase 2 — Estructuras lineales/secuenciales
+🧱 Clase 2 — Presentación Elementos básicos de algoritmos y programas
 </a>
 
-<a href="./Clases/Clase3_Bloques.md" style="
+<a href="./Contenidos/Clase3_Presentacion_Herramientas.md" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
@@ -77,11 +77,11 @@
     display: inline-block;
     margin: 5px 0;
 ">
-📊 Clase 3 — Programación por bloques
+📊 Clase 3 — Presentación Herramientas para programación
 </a>
 
-<a href="./Clases/Clase3_Bloques.md" style="
-    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+<a href="./Contenidos/Clase4_Presentacion_Lenguajes.md" style="
+    background: linear-gradient(90deg, #FF8F00, #FFC107);
     color: white;
     padding: 10px 25px;
     text-decoration: none;
@@ -92,10 +92,11 @@
     display: inline-block;
     margin: 5px 0;
 ">
-📊 Clase 4 — Programación por bloques
+🚀 Clase 4 — Presentación Programación en lenguajes de alto nivel
 </a>
 
 </div>
+
 
 ---
 
