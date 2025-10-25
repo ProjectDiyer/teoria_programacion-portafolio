@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Contacto"
+permalink: /contacto/
+---
 <div align="center">
 
 <!-- Botón para volver al índice -->
