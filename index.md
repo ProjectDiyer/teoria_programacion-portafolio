@@ -28,7 +28,7 @@
 > Introducción a los principios esenciales de la programación: algoritmos, estructuras básicas y comprensión lógica de los procesos computacionales.
 
 <div align="center">
-<a href="./Unidades/Unidad 1/Unidad 1.md" style="
+<a href="./Unidades/Unidad 1/Unidad1.md" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
