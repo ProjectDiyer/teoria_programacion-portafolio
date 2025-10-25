@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Botón para volver al índice -->
-<a href="../../index.md" style="
+<a href="../../principal.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -176,7 +176,7 @@
 <div align="center">
 
 <!-- Botón de regreso al índice -->
-<a href="../../index.md" style="
+<a href="../../principal.md" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
