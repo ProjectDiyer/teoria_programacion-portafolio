@@ -1,3 +1,33 @@
-title: "Mi sitio con Markdown"
-description: "Hecho con GitHub Pages y Jekyll"
+title: "Portafolio de Programación"
+description: "Proyectos, prácticas y aprendizajes desarrollados en la materia de Programación."
 theme: minima
+
+# Información personal
+author:
+  name: "Tu Nombre Completo"
+  email: "tunombre@ejemplo.com"
+
+# Redes (opcional)
+social_links:
+  github: tu-usuario
+  linkedin: tu-usuario
+  # twitter: tu-usuario  # puedes agregar más si quieres
+
+# Personalización del tema
+show_excerpts: true
+minima:
+  skin: dark  # Cambia el estilo: opciones: classic, dark, auto, solarized-light, solarized-dark
+  date_format: "%d %B %Y"
+
+# Navegación superior
+header_pages:
+  - index.md
+  - proyectos.md
+  - sobre-mi.md
+  - contacto.md
+
+# Configuración básica
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
