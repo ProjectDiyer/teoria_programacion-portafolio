@@ -54,6 +54,25 @@ title: Actividad 4
 
 ---
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<!-- Botón Clase anterior -->
+<a href="./instalacion_lenguajes" style="
+    background: linear-gradient(90deg, #F4511E, #FF7043);
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+">
+⬅️ Actividad 3
+</a>
+
+</div>
+
 <div align="center">
 
 <!-- Botón para volver al índice -->
