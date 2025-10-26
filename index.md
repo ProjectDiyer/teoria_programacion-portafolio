@@ -8,7 +8,7 @@ title: Caratula
 </head>
 
 # 📘 Universidad Nacional de Loja  
-## 🏛️ *Carrera de Ingeniería en Sistemas*
+## 🏛️ *Carrera de COMPUTACIÓN*
 
 ---
 
