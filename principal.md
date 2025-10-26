@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portada
+title: Índice
 ---
 
 <div align="center">
