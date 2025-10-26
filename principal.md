@@ -96,7 +96,9 @@ title: Portada
 ---
 
 ### 🧭 Conclusión
-> La teoría de la programación impulsa el pensamiento lógico, estructurado y creativo para la resolución de problemas a través del código.
+
+> La teoría de la programación impulsa el pensamiento lógico, estructurado y creativo para la resolución de problemas a través del código.  
+> Actualmente, algunas unidades aún no están disponibles, pero pronto se actualizarán con lecciones, actividades y materiales complementarios para completar el aprendizaje.
 
 ---
 
