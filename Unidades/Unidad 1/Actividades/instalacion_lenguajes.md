@@ -71,6 +71,40 @@ title: Actividad 3
 
 ---
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<!-- Botón Clase anterior -->
+<a href="./herramientas_algoritmos" style="
+    background: linear-gradient(90deg, #F4511E, #FF7043);
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+">
+⬅️ Actividad 2
+</a>
+
+<!-- Botón Clase siguiente -->
+<a href="./del_diseno_al_programa" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+">
+Actividad 4 ➡️
+</a>
+
+</div>
+
 <div align="center">
 
 <!-- Botón para volver al índice -->
