@@ -55,7 +55,7 @@ title: Portada
 > Análisis y práctica de estructuras condicionales y repetitivas que controlan el flujo de ejecución y mejoran la eficiencia de los programas.
 
 <div align="center">
-<a href="./Unidades/Unidad 2/Unidad 2" style="
+<a href="./Unidades/Unidad 2/Unidad2" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 10px 25px;
@@ -77,7 +77,7 @@ title: Portada
 > Análisis de la programación modular y de las estructuras de datos estáticas, empleando funciones, arreglos y cadenas para optimizar la organización y reutilización del código.
 
 <div align="center">
-<a href="./Unidades/Unidad 3/Unidad 3" style="
+<a href="./Unidades/Unidad 3/Unidad3" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
