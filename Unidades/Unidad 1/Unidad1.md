@@ -36,44 +36,6 @@ title: Unidad 1
 
 ---
 
-## 📚 Lecciones de la Unidad 1
-
-<div align="center">
-
-<a href="./Lecciones/Leccion1_Algoritmosenpseudocódigo" style="
-    background: linear-gradient(90deg, #673AB7, #9575CD);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-📖 Lección 1 — Conceptos básicos de algoritmos
-</a>
-
-<a href="./Lecciones/Leccion2_ProgramaciónenC" style="
-    background: linear-gradient(90deg, #009688, #4DB6AC);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-🧩 Lección 2 — Elementos de un algoritmo y su estructura
-</a>
-
-</div>
-
----
-
 ## 🏫 Clases de la Unidad 1
 
 <div align="center">
@@ -136,6 +98,44 @@ title: Unidad 1
     margin: 5px;
 ">
 🚀 Clase 4 — Presentación Programación en lenguajes de alto nivel
+</a>
+
+</div>
+
+---
+
+## 📚 Lecciones de la Unidad 1
+
+<div align="center">
+
+<a href="./Lecciones/Leccion1_Algoritmosenpseudocódigo" style="
+    background: linear-gradient(90deg, #673AB7, #9575CD);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+📖 Lección 1 — Conceptos básicos de algoritmos
+</a>
+
+<a href="./Lecciones/Leccion2_ProgramaciónenC" style="
+    background: linear-gradient(90deg, #009688, #4DB6AC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+🧩 Lección 2 — Elementos de un algoritmo y su estructura
 </a>
 
 </div>
