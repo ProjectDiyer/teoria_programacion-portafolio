@@ -41,7 +41,7 @@ El objetivo principal fue desarrollar la capacidad de analizar, construir y ejec
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase siguiente -->
-<a href="./Leccion2_ProgramaciónC" style="
+<a href="./Leccion2_ProgramaciónenC" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
