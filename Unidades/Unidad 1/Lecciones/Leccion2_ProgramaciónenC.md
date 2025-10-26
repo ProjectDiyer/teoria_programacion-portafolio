@@ -21,6 +21,8 @@ title: Lección 2
 ⬅️ Volver
 </a>
 
+</div>
+
 ---
 
 **Lección 2 — Control de aprendizaje de Programación en C**
