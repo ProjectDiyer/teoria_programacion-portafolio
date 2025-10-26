@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actividad 1
+title: Actividad 2
 ---
 
 <div align="center">
@@ -25,7 +25,7 @@ title: Actividad 1
 
 ---
 
-### 📝 Deber 2 — Herramientas digitales para pseudocódigo y diagramas de flujo
+### 📝 Actividad 2 — Herramientas digitales para pseudocódigo y diagramas de flujo
 
 📅 *Abrió:* Jueves, 9 de octubre de 2025  
 📅 *Cerró:* Lunes, 13 de octubre de 2025  
