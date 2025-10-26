@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lección 2
+title: Lección 1
 ---
 
 <div align="center">
