@@ -35,7 +35,7 @@ title: Actividad 3
 <div align="center">
 
 <!-- Botón al enunciado del deber -->
-<a href="./Actividades/instalacion_lenguajes_enunciado" style="
+<a href="https://drive.google.com/file/d/1K0DcMqqjP88qm5GWH8aJ8JWSvH3ogrTN/view?usp=sharing" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -51,7 +51,7 @@ title: Actividad 3
 </a>
 
 <!-- Botón a tu entrega -->
-<a href="./Actividades/instalacion_lenguajes" style="
+<a href="https://drive.google.com/file/d/1dPa18HY3zJgwNw6pxkqBGEQaAo2m3th6/view?usp=sharing" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
