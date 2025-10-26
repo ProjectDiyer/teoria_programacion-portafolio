@@ -29,10 +29,48 @@ title: Unidad 1
 
 ## 📘 Contenidos Generales de la Unidad
 
-- Algoritmos, pseudocódigo y diagramas de flujo
-- Programación por bloques
-- Ejemplos de algoritmos con estructuras lineales/secuenciales
-- Principales dificultades en la aplicación de los contenidos
+- Algoritmos, pseudocódigo y diagramas de flujo  
+- Programación por bloques  
+- Ejemplos de algoritmos con estructuras lineales/secuenciales  
+- Principales dificultades en la aplicación de los contenidos  
+
+---
+
+## 📚 Lecciones de la Unidad 1
+
+<div align="center">
+
+<a href="./Lecciones/Leccion1_Algoritmosenpseudocódigo" style="
+    background: linear-gradient(90deg, #673AB7, #9575CD);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+📖 Lección 1 — Conceptos básicos de algoritmos
+</a>
+
+<a href="./Lecciones/Leccion2_ProgramaciónenC" style="
+    background: linear-gradient(90deg, #009688, #4DB6AC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+🧩 Lección 2 — Elementos de un algoritmo y su estructura
+</a>
+
+</div>
 
 ---
 
@@ -50,7 +88,7 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 🧮 Clase 1 — Presentación Conceptos fundamentales de Algoritmos
 </a>
@@ -65,7 +103,7 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 🧱 Clase 2 — Presentación Elementos básicos de algoritmos y programas
 </a>
@@ -80,7 +118,7 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 📊 Clase 3 — Presentación Herramientas para programación
 </a>
@@ -95,13 +133,12 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 🚀 Clase 4 — Presentación Programación en lenguajes de alto nivel
 </a>
 
 </div>
-
 
 ---
 
@@ -119,7 +156,7 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 🧩 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
 </a>
@@ -134,7 +171,7 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 💻 Instalación de lenguajes de programación (C, Python o Java)
 </a>
@@ -149,7 +186,7 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 ⚙️ Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo
 </a>
@@ -164,12 +201,14 @@ title: Unidad 1
     border-radius: 8px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
-    margin: 5px 0;
+    margin: 5px;
 ">
 🚀 Del diseño del algoritmo a la construcción del programa
 </a>
 
 </div>
+
+---
 
 ## 💬 Reflexión Final
 
