@@ -21,6 +21,8 @@ title: Lección 1
 ⬅️ Volver
 </a>
 
+</div>
+
 ---
 
 ## 📘 Lecciones de la Unidad 1
