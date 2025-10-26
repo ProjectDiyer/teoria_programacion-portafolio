@@ -146,6 +146,21 @@ title: Unidad 1
 
 <div align="center">
 
+<a href="./Actividades/primer_acercamiento" style="
+    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+⚙️ Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo
+</a>
+
 <a href="./Actividades/herramientas_algoritmos" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
@@ -174,21 +189,6 @@ title: Unidad 1
     margin: 5px;
 ">
 💻 Instalación de lenguajes de programación (C, Python o Java)
-</a>
-
-<a href="./Actividades/primer_acercamiento" style="
-    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-⚙️ Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo
 </a>
 
 <a href="./Actividades/del_diseno_al_programa" style="
