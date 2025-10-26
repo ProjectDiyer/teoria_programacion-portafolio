@@ -18,7 +18,7 @@ title: Clase 4
     display: inline-block;
     margin-bottom: 20px;
 ">
-⬅️ Volver a Unidad 1
+⬅️ Volver
 </a>
 
 </div>
@@ -188,7 +188,7 @@ Milímetros: 150000.00
     display: inline-block;
     margin-top: 20px;
 ">
-⬅️ Volver a Unidad 1
+⬅️ Volver
 </a>
 
 </div>
