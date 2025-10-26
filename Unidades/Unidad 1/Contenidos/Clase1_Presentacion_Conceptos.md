@@ -18,7 +18,7 @@ title: Clase 1
     display: inline-block;
     margin-bottom: 20px;
 ">
-⬅️ Volver a Unidad 1
+⬅️ Volver
 </a>
 
 </div>
@@ -116,7 +116,7 @@ Clase 2 ➡️
     display: inline-block;
     margin-top: 20px;
 ">
-⬅️ Volver a Unidad 1
+⬅️ Volver
 </a>
 
 </div>
