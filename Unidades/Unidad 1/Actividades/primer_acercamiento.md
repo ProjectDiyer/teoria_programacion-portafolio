@@ -20,6 +20,7 @@ title: Actividad 1
 ">
 ⬅️ Volver
 </a>
+</div>
 
 ---
 
@@ -86,3 +87,4 @@ title: Actividad 1
 ⬅️ Volver
 </a>
 
+</div>
