@@ -52,7 +52,7 @@ title: Portada
 ---
 
 ### ⚙️ Unidad 2 — Estructuras Algorítmicas de Control
-> Estudio de los mecanismos que permiten controlar el flujo de ejecución, aplicar condiciones y crear funciones que optimizan el código.
+> Análisis y práctica de estructuras condicionales y repetitivas que controlan el flujo de ejecución y mejoran la eficiencia de los programas.
 
 <div align="center">
 <a href="./Unidades/Unidad 2/Unidad 2" style="
@@ -74,7 +74,7 @@ title: Portada
 ---
 
 ### 🧱 Unidad 3 — Programación Modular y Estructuras de Datos Estáticas
-> Análisis de la modularidad, la reutilización del código y los diferentes enfoques o paradigmas de la programación moderna.
+> Análisis de la programación modular y de las estructuras de datos estáticas, empleando funciones, arreglos y cadenas para optimizar la organización y reutilización del código.
 
 <div align="center">
 <a href="./Unidades/Unidad 3/Unidad 3" style="
