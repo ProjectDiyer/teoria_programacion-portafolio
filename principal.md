@@ -103,10 +103,12 @@ title: Índice
 ---
 
 ### 📚 Referencias
-- [📘 Python.org — Official Documentation](https://docs.python.org/3/)
-- [💾 W3Schools — Programming Basics](https://www.w3schools.com/)
-- [🧠 GeeksForGeeks — Algorithms and Logic](https://www.geeksforgeeks.org/)
-- [🔗 GitHub Guides — Markdown Basics](https://guides.github.com/features/mastering-markdown/)
+
+- Arteaga Martínez, M. M. (2023). *Lógica de programación con PSeInt. Enfoque práctico* (Primera edición). Fondo Editorial Remington. [Enlace](https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f)
+- Figueroa Piscoya, E.N., Maldonado Ramírez, I., & Santa Cruz Acosta, R.C. (2021). *Fundamentos de programación, un enfoque práctico*. Biblioteca Nacional del Perú. [Enlace](https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico)
+- Goin, M. (2022). *Caminando junto al Lenguaje C*. Editorial UNRN. [Enlace](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1)
+- Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E. (2023). *Programando en C desde la práctica: problemas resueltos*. Puerto Madero Editorial. [Enlace](https://dialnet.unirioja.es/servlet/libro?codigo=933288)
+- Toro Bonilla, J. M. (2022). *Fundamentos de Programación: JAVA*. Universidad de Sevilla, Editorial Universidad de Sevilla. [Enlace](https://dialnet.unirioja.es/servlet/libro?codigo=871118)
 
 ---
 
