@@ -210,6 +210,44 @@ title: Unidad 1
 
 ---
 
+## 💾 Códigos de Programación
+
+<div align="center">
+
+<a href="./Codigos/Codigos_PSeInt" style="
+    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+🧩 Códigos en PSeInt
+</a>
+
+<a href="./Codigos/Codigos_C" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Códigos en C
+</a>
+
+</div>
+
+---
+
 ## 💬 Reflexión Final
 
 > En esta unidad se comprendió la importancia de estructurar correctamente los algoritmos antes de codificarlos.  
