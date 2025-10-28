@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Caratula
+title: Portafolio Digital de Aprendizaje – Teoría de la Programación
 ---
 
 <head>
