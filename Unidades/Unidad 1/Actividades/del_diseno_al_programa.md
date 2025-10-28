@@ -29,13 +29,13 @@ title: Actividad 4
 📅 *Abrió:* 28 de octubre de 2025  10h30
 📅 *Cerró:* 28 de octubre de 2025  13h30
 
-> Esta actividad aún no se ha realizado. Próximamente se actualizará con el enunciado y el enlace de entrega.
+> En esta práctica se aplicaron estructuras secuenciales para diseñar, codificar y probar un algoritmo en lenguaje C que calcula la nota mínima necesaria en el tercer certamen para aprobar la asignatura, documentando el proceso en un informe técnico.
 
 <div align="center">
 
-<!-- Botón de pendiente -->
-<a href="#" style="
-    background: linear-gradient(90deg, #B71C1C, #F44336);
+<!-- Botón al enunciado del deber -->
+<a href="https://drive.google.com/file/d/1VI6jihWF5pXP7LMSVJtej8FmpltBNgW4/view?usp=sharing" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
     text-decoration: none;
@@ -45,9 +45,24 @@ title: Actividad 4
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     display: inline-block;
     margin: 5px 5px;
-    cursor: not-allowed;
 ">
-⚠️ Deber Pendiente
+📄 Enunciado del Deber
+</a>
+
+<!-- Botón a tu entrega -->
+<a href="https://drive.google.com/file/d/16iqRQ4JEX6vavvsdQk9V1ZZcJLC5ag_o/view?usp=sharing" style="
+    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 5px;
+">
+✅ Deber Realizado
 </a>
 
 </div>
