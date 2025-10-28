@@ -24,10 +24,10 @@ title: Actividad 4
 
 ---
 
-### 📝 Actividad 4 — [Título pendiente]
+### 📝 Actividad 4 — Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 
-📅 *Abrió:* Por definir  
-📅 *Cerró:* Por definir  
+📅 *Abrió:* 28 de octubre de 2025  10h30
+📅 *Cerró:* 28 de octubre de 2025  13h30
 
 > Esta actividad aún no se ha realizado. Próximamente se actualizará con el enunciado y el enlace de entrega.
 
