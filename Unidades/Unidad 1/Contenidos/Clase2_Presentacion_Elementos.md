@@ -87,6 +87,7 @@ Algoritmo PresupuestoPintura
     Escribir "El presupuesto para el cliente ", cliente, " es: $", total
 FinAlgoritmo
 ```
+
 **Prueba de escritoriot:**
 
 | **Caso** | **Cliente** | **Precio por m² ($)** | **Metros cuadrados** | **Proceso**                               | **Salida**                                      |
@@ -100,12 +101,12 @@ FinAlgoritmo
 
 ```terminal
 Ingrese el nombre del cliente:
-> Juan Perez
+> Luis
 Ingrese el precio por m2:
-> 15
+> 3.75
 Ingrese la cantidad de metros cuadrados a pintar:
-> 120
-El presupuesto para el cliente Juan Perez es: $1800
+> 80
+El presupuesto para el cliente Juan Perez es: $300.00
 ```
 
 **Diagrama de flujo:**
