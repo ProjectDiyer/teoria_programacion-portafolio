@@ -167,6 +167,7 @@ int main() {
 | 4         | 0.25                 | km = 0.25 / 1000 = 0.00025<br>cm = 0.25 * 100 = 25<br>mm = 0.25 * 1000 = 250 | Kilómetros: 0.00025<br>Centímetros: 25<br>Milímetros: 250                |
 | 5         | 150                  | km = 150 / 1000 = 0.15<br>cm = 150 * 100 = 15000<br>mm = 150 * 1000 = 150000 | Kilómetros: 0.15<br>Centímetros: 15000<br>Milímetros: 150000             |
 
+**Terminal:**
 
 ```terminal
 Ingrese cantidad en metros:
