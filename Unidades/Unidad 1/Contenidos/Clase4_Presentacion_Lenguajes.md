@@ -185,7 +185,7 @@ A continuación, realiza las siguientes operaciones de conversión:
 * `centimetros ← metros * 100`
 * `milimetros ← metros * 1000`
 
-Finalmente, **muestra** en pantalla los tres resultados calculados: los Kilómetros, los Centímetros y los Milímetros.
+> Finalmente, **muestra** en pantalla los tres resultados calculados: los Kilómetros, los Centímetros y los Milímetros.
 El proceso termina con el fin del algoritmo.
 
 ![Diagrama de flujo](../Imagenes/ConversionMetros.svg)
