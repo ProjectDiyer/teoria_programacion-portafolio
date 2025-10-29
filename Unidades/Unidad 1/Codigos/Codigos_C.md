@@ -4,6 +4,24 @@ title: Códigos en C
 ---
 
 <div align="center">
+<a href="../Unidad1" style="
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin-top: 20px;
+">
+⬅️ Volver al Índice
+</a>
+
+</div>
+
+---
 
 # 💻 Códigos en Lenguaje C realizados
 
