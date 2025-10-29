@@ -98,6 +98,9 @@ Ingrese la cantidad de metros cuadrados a pintar:
 El presupuesto para el cliente Juan Perez es: $1800
 ```
 
+![Diagrama de flujo](../Imagenes/PresupuestoPintura.svg)
+
+
 > Esta actividad permitió practicar el uso de variables, entradas/salidas y operaciones básicas en pseudocódigo para resolver problemas reales.
 
 ---
