@@ -96,6 +96,8 @@ FinAlgoritmo
 | 3         | Marta        | 1.90                  | 120                   | total ← 1.90 × 120 = 228.00               | El presupuesto para el cliente Marta es: $228.00 |
 | 4         | Pedro        | 4.00                  | 50                    | total ← 4.00 × 50 = 200.00                | El presupuesto para el cliente Pedro es: $200.00 |
 
+**Terminal:**
+
 ```terminal
 Ingrese el nombre del cliente:
 > Juan Perez
