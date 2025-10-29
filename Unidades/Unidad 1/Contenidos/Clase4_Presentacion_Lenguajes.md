@@ -176,6 +176,18 @@ Centímetros: 15000.00
 Milímetros: 150000.00
 ```
 
+**Diagrama de flujo:**
+
+> Inicia con la **definición de las variables** `metros`, `kilometros`, `centimetros` y `milimetros` (todas como Real).
+Luego **solicita** al usuario que ingrese la cantidad en metros, y almacena el valor en la variable `metros`.
+A continuación, realiza las siguientes operaciones de conversión:
+* `kilometros ← metros / 1000`
+* `centimetros ← metros * 100`
+* `milimetros ← metros * 1000`
+Finalmente, **muestra** en pantalla los tres resultados calculados: los Kilómetros, los Centímetros y los Milímetros.
+El proceso termina con el fin del algoritmo.
+
+![Diagrama de flujo](../Imagenes/ConversionMetros.svg)
 
 > Esta actividad permite practicar entrada/salida de datos, conversiones y operaciones aritméticas en C.
 
