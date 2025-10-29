@@ -76,7 +76,7 @@ Ingrese el segundo número:
 > 7
 La suma es: 12
 ```
-![Diagrama de flujo](Imagenes/SumarNumeros.svg)
+![Diagrama de flujo](../Imagenes/SumarNumeros.svg)
 
 > Esta actividad permitió practicar la creación de algoritmos secuenciales y su representación en pseudocódigo antes de codificar en un lenguaje real.
 
