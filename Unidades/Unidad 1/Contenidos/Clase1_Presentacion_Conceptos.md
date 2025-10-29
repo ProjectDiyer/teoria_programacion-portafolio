@@ -69,6 +69,15 @@ Algoritmo SumarNumeros
     Escribir "La suma es:", suma;
 FinAlgoritmo
 ```
+
+| **Caso** | **Entrada (num1)** | **Entrada (num2)** | **Proceso**             | **Salida**        |
+|-----------|--------------------|--------------------|--------------------------|-------------------|
+| 1         | 5                  | 3                  | suma ← 5 + 3 = 8         | La suma es: 8     |
+| 2         | 10                 | 15                 | suma ← 10 + 15 = 25      | La suma es: 25    |
+| 3         | -2                 | 7                  | suma ← -2 + 7 = 5        | La suma es: 5     |
+| 4         | 0                  | 0                  | suma ← 0 + 0 = 0         | La suma es: 0     |
+
+
 ```terminal
 Ingrese el primer número:
 > 5
