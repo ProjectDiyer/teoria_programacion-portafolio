@@ -87,6 +87,14 @@ Algoritmo PresupuestoPintura
     Escribir "El presupuesto para el cliente ", cliente, " es: $", total
 FinAlgoritmo
 ```
+**Prueba de escritoriot:**
+
+| **Caso** | **Cliente** | **Precio por m² ($)** | **Metros cuadrados** | **Proceso**                               | **Salida**                                      |
+|-----------|--------------|-----------------------|-----------------------|--------------------------------------------|------------------------------------------------|
+| 1         | Ana          | 2.50                  | 100                   | total ← 2.50 × 100 = 250.00               | El presupuesto para el cliente Ana es: $250.00 |
+| 2         | Luis         | 3.75                  | 80                    | total ← 3.75 × 80 = 300.00                | El presupuesto para el cliente Luis es: $300.00 |
+| 3         | Marta        | 1.90                  | 120                   | total ← 1.90 × 120 = 228.00               | El presupuesto para el cliente Marta es: $228.00 |
+| 4         | Pedro        | 4.00                  | 50                    | total ← 4.00 × 50 = 200.00                | El presupuesto para el cliente Pedro es: $200.00 |
 
 ```terminal
 Ingrese el nombre del cliente:
