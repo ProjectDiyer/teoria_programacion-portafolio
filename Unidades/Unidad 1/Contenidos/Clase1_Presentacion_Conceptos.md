@@ -92,6 +92,11 @@ Ingrese el segundo número:
 > 7
 La suma es: 12
 ```
+
+> El diagrama de flujo representa el proceso para sumar dos números ingresados por el usuario.  
+Inicia con la definición de las variables `num1`, `num2` y `suma`. Luego solicita los dos valores, realiza la operación `suma ← num1 + num2` y finalmente muestra el resultado en pantalla.  
+El proceso termina con el fin del algoritmo.
+
 ![Diagrama de flujo](../Imagenes/SumarNumeros.svg)
 
 > Esta actividad permitió practicar la creación de algoritmos secuenciales y su representación en pseudocódigo antes de codificar en un lenguaje real.
