@@ -65,6 +65,11 @@ Un almacén requiere determinar cuánto cobrar por trabajos de pintura. Consider
 
 **Ejemplo de pseudocódigo en PSeInt:**
 
+> El algoritmo calcula el presupuesto total para un trabajo de pintura.  
+Primero solicita el **nombre del cliente**, el **precio por metro cuadrado** y la **cantidad de metros cuadrados a pintar**.  
+Luego multiplica el precio por la cantidad (`total ← precio_m2 * metros_cuadrados`) para obtener el **costo total del trabajo**.  
+Finalmente, muestra en pantalla el nombre del cliente junto con el valor total del presupuesto.
+
 ```pseudocode
 Algoritmo PresupuestoPintura
     Definir precio_m2, metros_cuadrados, total Como Real
