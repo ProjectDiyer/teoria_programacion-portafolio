@@ -58,6 +58,13 @@ Se mencionaron herramientas visuales como **PSeInt, Draw.io y Lucidchart**, así
 
 **Ejemplo de pseudocódigo en PSeInt:**
 
+> El algoritmo lee dos números enteros ingresados por el usuario, calcula su suma y muestra el resultado en pantalla.
+
+**Pasos:**
+1. Solicita el primer y segundo número.  
+2. Realiza la operación: `suma ← num1 + num2`.  
+3. Muestra el resultado: `La suma es: (suma)`.
+
 ```pseudocode
 Algoritmo SumarNumeros
     Definir num1, num2, suma Como Entero;
