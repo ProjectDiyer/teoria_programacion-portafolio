@@ -97,6 +97,11 @@ Ingrese la cantidad de metros cuadrados a pintar:
 > 120
 El presupuesto para el cliente Juan Perez es: $1800
 ```
+### Diagrama de flujo
+> Inicia con la **definición de las variables** `precio_m2`, `metros_cuadrados`, `total` (como Real) y `cliente` (como Cadena).
+Luego **solicita** el nombre del cliente, el precio por m² y la cantidad de metros cuadrados a pintar.
+Realiza la operación de cálculo: `total ← precio_m2 * metros_cuadrados`, y finalmente **muestra** el presupuesto completo en pantalla.
+El proceso termina con el fin del algoritmo.
 
 ![Diagrama de flujo](../Imagenes/PresupuestoPintura.svg)
 
