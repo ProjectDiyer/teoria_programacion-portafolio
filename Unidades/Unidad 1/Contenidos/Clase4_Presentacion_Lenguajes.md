@@ -184,6 +184,7 @@ A continuación, realiza las siguientes operaciones de conversión:
 * `kilometros ← metros / 1000`
 * `centimetros ← metros * 100`
 * `milimetros ← metros * 1000`
+
 Finalmente, **muestra** en pantalla los tres resultados calculados: los Kilómetros, los Centímetros y los Milímetros.
 El proceso termina con el fin del algoritmo.
 
