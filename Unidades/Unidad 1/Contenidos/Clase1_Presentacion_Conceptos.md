@@ -77,6 +77,8 @@ Algoritmo SumarNumeros
 FinAlgoritmo
 ```
 
+**Prueba de escritoriot:**
+
 | **Caso** | **Entrada (num1)** | **Entrada (num2)** | **Proceso**             | **Salida**        |
 |-----------|--------------------|--------------------|--------------------------|-------------------|
 | 1         | 5                  | 3                  | suma ← 5 + 3 = 8         | La suma es: 8     |
@@ -84,6 +86,7 @@ FinAlgoritmo
 | 3         | -2                 | 7                  | suma ← -2 + 7 = 5        | La suma es: 5     |
 | 4         | 0                  | 0                  | suma ← 0 + 0 = 0         | La suma es: 0     |
 
+**Terminal:**
 
 ```terminal
 Ingrese el primer número:
@@ -92,6 +95,8 @@ Ingrese el segundo número:
 > 7
 La suma es: 12
 ```
+
+**Diagrama de flujo:**
 
 > El diagrama de flujo representa el proceso para sumar dos números ingresados por el usuario.  
 Inicia con la definición de las variables `num1`, `num2` y `suma`. Luego solicita los dos valores, realiza la operación `suma ← num1 + num2` y finalmente muestra el resultado en pantalla.  
