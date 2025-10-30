@@ -5,7 +5,7 @@ title: Programación en Bloques
 
 <div align="center">
 <a href="../Unidad1" style="
-    background: linear-gradient(90deg, #FF5722, #FF8A65);
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
     text-decoration: none;
@@ -126,7 +126,7 @@ Aprender a construir figuras con más lados usando bucles y entender cómo el á
 <div align="center">
 
 <a href="../Unidad1" style="
-    background: linear-gradient(90deg, #FF5722, #FF8A65);
+    background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
     text-decoration: none;
