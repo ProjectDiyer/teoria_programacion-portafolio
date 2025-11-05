@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Programación en Bloques
+title: Programación por Bloques
 ---
 
 <div align="center">
@@ -22,7 +22,7 @@ title: Programación en Bloques
 
 ---
 
-# 💻 Programación en Bloques
+# 💻 Programación por Bloques
 
 En esta sección se muestran las actividades realizadas en **Blockly Games**, con su descripción detallada y los diagramas de bloques correspondientes.  
 [Visitar Blockly Games](https://blockly.games/)
