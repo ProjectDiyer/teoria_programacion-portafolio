@@ -159,6 +159,8 @@ int main() {
 
 **Tabla de prueba de escritorio**
 
+**TABLA 3:** Prueba de escritorio del algoritmo *ConversionMetros*.  
+
 | **Caso** | **Entrada (metros)** | **Proceso**                                           | **Salida**                                                                 |
 |-----------|----------------------|--------------------------------------------------------|----------------------------------------------------------------------------|
 | 1         | 1                    | km = 1 / 1000 = 0.001<br>cm = 1 * 100 = 100<br>mm = 1 * 1000 = 1000 | Kilómetros: 0.001<br>Centímetros: 100<br>Milímetros: 1000                 |
@@ -188,6 +190,8 @@ A continuación, realiza las siguientes operaciones de conversión:
 
 > Finalmente, **muestra** en pantalla los tres resultados calculados: los Kilómetros, los Centímetros y los Milímetros.
 El proceso termina con el fin del algoritmo.
+
+**IMAGEN 3:** Diagrama de flujo del proceso de conversión de metros a kilómetros, centímetros y milímetros. 
 
 ![Diagrama de flujo](../Imagenes/ConversionMetros.svg)
 
