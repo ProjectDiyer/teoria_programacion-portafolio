@@ -71,6 +71,7 @@ int main(){
 }
 ```
 
+
 **TABLA 4:** Prueba de escritorio del programa *Suma de dos números.*
 
 ### 🧩 Tabla de prueba de escritorio
@@ -110,6 +111,7 @@ int main() {
     return 0;
 }
 ```
+
 
 **TABLA 5:** Prueba de escritorio del programa *Doble y triple de un número.*
 
@@ -153,6 +155,7 @@ int main(){
 }
 ```
 
+
 **TABLA 6:** Prueba de escritorio del programa *Cálculo de aceleración.*
 
 ### 🧩 Tabla de prueba de escritorio
@@ -192,6 +195,7 @@ int main() {
     return 0;
 }
 ```
+
 
 **TABLA 7:** Prueba de escritorio del programa *Separar parte entera y decimal.*
 
@@ -235,6 +239,7 @@ int main(){
 }
 ```
 
+
 **TABLA 8:** Prueba de escritorio del programa *Distancia entre dos puntos.*
 
 ### 🧩 Tabla de prueba de escritorio
@@ -275,6 +280,7 @@ int main(){
     return 0;
 }
 ```
+
 
 **TABLA 9:** Prueba de escritorio del programa *Conversión de metros a otras unidades.*
 
