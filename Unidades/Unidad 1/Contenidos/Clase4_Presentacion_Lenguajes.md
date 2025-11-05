@@ -49,12 +49,20 @@ Se abordaron los siguientes conceptos:
 2. **Algoritmo y Pseudocódigo**: Secuencia lógica de pasos para resolver problemas antes de codificar.
 
 ```pseudocode
-Inicio
-    Leer largo
+Algoritmo CalcularAreaRectangulo
+
+    // Solicitar al usuario las dimensiones del rectángulo
+    Escribir "Ingrese el largo:"
+    Leer largo  
+    Escribir "Ingrese el ancho:"
     Leer ancho
+        
+    // Calcular el área
     area <- largo * ancho
-    Mostrar area
-Fin
+        
+    // Mostrar el resultado
+    Escribir "El área del rectángulo es: ", area
+FinAlgoritmo
 ```
 
 3. **Uso de librerías en C**: Funciones predefinidas para entrada/salida y operaciones matemáticas. Librería estándar `stdio.h`.
