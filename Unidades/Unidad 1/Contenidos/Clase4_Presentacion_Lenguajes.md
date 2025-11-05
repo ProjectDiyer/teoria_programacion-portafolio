@@ -33,7 +33,18 @@ En esta clase vimos la introducción a la programación en C, su relación con a
 
 Se abordaron los siguientes conceptos:
 
-1. **Introducción a C**: Lenguaje fundamental para aprender programación. Transformación de algoritmos en código ejecutable.
+1. **Introducción a C**: Lenguaje fundamental para aprender programación. Transformación de algoritmos en código ejecutable.  
+
+   C es un lenguaje de programación de propósito general, desarrollado en la década de 1970 por Dennis Ritchie en los Laboratorios Bell, inicialmente para implementar el sistema operativo UNIX. Es un lenguaje estructurado, lo que significa que permite organizar el código en funciones y bloques lógicos, facilitando la lectura, mantenimiento y reutilización de programas.
+
+   Algunas características importantes de C son:
+   - **Eficiencia y rendimiento:** Permite un control cercano del hardware y de la memoria, lo que lo hace ideal para sistemas embebidos y aplicaciones que requieren alto rendimiento.
+   - **Portabilidad:** Los programas en C pueden ejecutarse en distintas plataformas con mínimos cambios, gracias a la estandarización del lenguaje.
+   - **Manejo de memoria:** A través de punteros y estructuras de datos dinámicas, C permite un control explícito de la memoria utilizada.
+   - **Flexibilidad:** Combina características de alto nivel, como estructuras de control y funciones, con capacidades de bajo nivel, como manipulación de bits y acceso directo a memoria.
+   - **Base para otros lenguajes:** Aprender C facilita la comprensión de otros lenguajes como C++, Java, C# y Python, ya que muchos conceptos y estructuras derivan directamente de C.
+
+   En resumen, estudiar C proporciona una sólida comprensión de los principios de la programación, fomenta el pensamiento lógico y estructurado, y permite transformar algoritmos abstractos en programas eficientes y ejecutables.
 
 2. **Algoritmo y Pseudocódigo**: Secuencia lógica de pasos para resolver problemas antes de codificar.
 
