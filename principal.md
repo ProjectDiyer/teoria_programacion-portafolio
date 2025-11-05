@@ -113,7 +113,7 @@ title: Índice
 ---
 
 ### 🤖 Uso de la IA Generativa
-> La **IA generativa** potencia el aprendizaje al ofrecer asistencia personalizada, generación de ejemplos y optimización de código mediante herramientas como ChatGPT o GitHub Copilot.
+> Para la elaboración de este trabajo se utilizó inteligencia artificial generativa (ChatGPT de OpenAI) únicamente como apoyo en la redacción, organización de ideas, corrección de estilo y para la creación de archivos en formato Markdown (.md).
 
 ---
 
