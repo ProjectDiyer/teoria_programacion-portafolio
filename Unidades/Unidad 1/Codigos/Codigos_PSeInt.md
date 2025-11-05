@@ -55,6 +55,9 @@ FinAlgoritmo
 
 **Diagrama de flujo:**  
 
+
+**IMAGEN 4:** Diagrama de flujo del cálculo del volumen de una caja.  
+
 ![Diagrama de flujo](../Imagenes/volumen_caja.svg)  
 
 **Descripción detallada del diagrama:**  
@@ -66,6 +69,9 @@ FinAlgoritmo
 > Flujo secuencial lineal sin decisiones.
 
 ### 🧩 Tabla de prueba de escritorio
+
+
+**TABLA 10:** Prueba de escritorio del cálculo del volumen de una caja. 
 
 | **Caso** | **A** | **B** | **C** | **Proceso**          | **Salida**                 |
 |-----------|-------|-------|-------|--------------------|----------------------------|
@@ -98,6 +104,9 @@ FinAlgoritmo
 
 **Diagrama de flujo:**  
 
+
+**IMAGEN 5:** Diagrama de flujo del cálculo del sueldo total de un asesor.
+
 ![Diagrama de flujo](../Imagenes/sueldo_asesor.svg)  
 
 **Descripción detallada del diagrama:**  
@@ -109,6 +118,9 @@ FinAlgoritmo
 > Flujo lineal, sin decisiones.
 
 ### 🧩 Tabla de prueba de escritorio
+
+
+**TABLA 11:** Prueba de escritorio del cálculo del sueldo total de un asesor.
 
 | **Caso** | **Sueldo Mensual** | **Proceso**          | **Salida**                   |
 |-----------|------------------|--------------------|------------------------------|
@@ -143,6 +155,9 @@ FinAlgoritmo
 
 **Diagrama de flujo:**  
 
+
+**IMAGEN 6:** Diagrama de flujo del cálculo del cambio a recibir.  
+
 ![Diagrama de flujo](../Imagenes/cambio.svg)  
 
 **Descripción detallada del diagrama:**  
@@ -154,6 +169,9 @@ FinAlgoritmo
 > Flujo lineal, se podría agregar decisión para verificar si dinero < precio.
 
 ### 🧩 Tabla de prueba de escritorio
+
+
+**TABLA 12:** Prueba de escritorio del cálculo del cambio a recibir.  
 
 | **Caso** | **Dinero** | **Precio** | **Proceso**        | **Salida**            |
 |-----------|------------|------------|------------------|----------------------|
@@ -192,6 +210,9 @@ FinAlgoritmo
 
 **Diagrama de flujo:**  
 
+
+**IMAGEN 7:** Diagrama de flujo del cálculo del porcentaje de mujeres y hombres.  
+
 ![Diagrama de flujo](../Imagenes/porcentaje_mujeres_hombres.svg)  
 
 **Descripción detallada del diagrama:**  
@@ -203,6 +224,18 @@ FinAlgoritmo
 6. Mostrar ambos porcentajes.  
 7. Fin del algoritmo.  
 > Flujo lineal con cálculos dependientes del total; se puede validar total ≠ 0 para evitar división entre cero.
+
+### 🧩 Tabla de prueba de escritorio
+
+**TABLA 13:** Prueba de escritorio del cálculo del porcentaje de mujeres y hombres.
+
+| **Caso** | **Mujeres** | **Hombres** | **Total** | **% Mujeres** | **% Hombres** |
+|-----------|--------------|--------------|------------|----------------|----------------|
+| 1         | 20           | 20           | 40         | 50%             | 50%             |
+| 2         | 30           | 10           | 40         | 75%             | 25%             |
+| 3         | 15           | 25           | 40         | 37.5%           | 62.5%           |
+| 4         | 0            | 10           | 10         | 0%              | 100%            |
+| 5         | 12           | 0            | 12         | 100%            | 0%              |
 
 ---
 
