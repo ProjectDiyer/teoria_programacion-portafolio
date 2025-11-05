@@ -88,6 +88,8 @@ Algoritmo PresupuestoPintura
 FinAlgoritmo
 ```
 
+**TABLA 2:** Prueba de escritorio del algoritmo *PresupuestoPintura*.
+
 **Prueba de escritoriot:**
 
 | **Caso** | **Cliente** | **Precio por m² ($)** | **Metros cuadrados** | **Proceso**                               | **Salida**                                      |
@@ -115,6 +117,8 @@ El presupuesto para el cliente Juan Perez es: $300.00
 Luego **solicita** el nombre del cliente, el precio por m² y la cantidad de metros cuadrados a pintar.
 Realiza la operación de cálculo: `total ← precio_m2 * metros_cuadrados`, y finalmente **muestra** el presupuesto completo en pantalla.
 El proceso termina con el fin del algoritmo.
+
+**IMAGEN 2:** Diagrama de flujo del cálculo del presupuesto total para trabajos de pintura.  
 
 ![Diagrama de flujo](../Imagenes/PresupuestoPintura.svg)
 
