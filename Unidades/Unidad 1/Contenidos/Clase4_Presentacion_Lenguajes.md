@@ -58,7 +58,7 @@ Algoritmo CalcularAreaRectangulo
     Leer ancho
         
     // Calcular el área
-    area <- largo * ancho
+    area = largo * ancho
         
     // Mostrar el resultado
     Escribir "El área del rectángulo es: ", area
