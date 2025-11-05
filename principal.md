@@ -104,11 +104,15 @@ title: Índice
 
 ### 📚 Referencias
 
-- Arteaga Martínez, M. M. (2023). *Lógica de programación con PSeInt. Enfoque práctico* (Primera edición). Fondo Editorial Remington. [Enlace](https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f)
-- Figueroa Piscoya, E.N., Maldonado Ramírez, I., & Santa Cruz Acosta, R.C. (2021). *Fundamentos de programación, un enfoque práctico*. Biblioteca Nacional del Perú. [Enlace](https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico)
-- Goin, M. (2022). *Caminando junto al Lenguaje C*. Editorial UNRN. [Enlace](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1)
-- Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E. (2023). *Programando en C desde la práctica: problemas resueltos*. Puerto Madero Editorial. [Enlace](https://dialnet.unirioja.es/servlet/libro?codigo=933288)
-- Toro Bonilla, J. M. (2022). *Fundamentos de Programación: JAVA*. Universidad de Sevilla, Editorial Universidad de Sevilla. [Enlace](https://dialnet.unirioja.es/servlet/libro?codigo=871118)
+[1] M. M. Arteaga Martínez, *Lógica de programación con PSeInt. Enfoque práctico*, 1ª ed., Fondo Editorial Remington, 2023. [En línea]. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f  
+
+[2] E. N. Figueroa Piscoya, I. Maldonado Ramírez, y R. C. Santa Cruz Acosta, *Fundamentos de programación, un enfoque práctico*, Biblioteca Nacional del Perú, 2021. [En línea]. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico  
+
+[3] M. Goin, *Caminando junto al Lenguaje C*, Editorial UNRN, 2022. [En línea]. Disponible en: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1  
+
+[4] J. E. Guerra Salazar, M. V. Ramos Valencia, y G. E. Vallejo Vallejo, *Programando en C desde la práctica: problemas resueltos*, Puerto Madero Editorial, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288  
+
+[5] J. M. Toro Bonilla, *Fundamentos de Programación: JAVA*, Universidad de Sevilla, Editorial Universidad de Sevilla, 2022. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=871118
 
 ---
 
