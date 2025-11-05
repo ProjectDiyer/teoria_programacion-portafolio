@@ -77,6 +77,8 @@ Algoritmo SumarNumeros
 FinAlgoritmo
 ```
 
+**TABLA 1:** Prueba de escritorio del algoritmo *SumarNumeros*.
+
 **Prueba de escritoriot:**
 
 | **Caso** | **Entrada (num1)** | **Entrada (num2)** | **Proceso**             | **Salida**        |
@@ -101,6 +103,8 @@ La suma es: 12
 > El diagrama de flujo representa el proceso para sumar dos números ingresados por el usuario.  
 Inicia con la definición de las variables `num1`, `num2` y `suma`. Luego solicita los dos valores, realiza la operación `suma ← num1 + num2` y finalmente muestra el resultado en pantalla.  
 El proceso termina con el fin del algoritmo.
+
+**IMAGEN 1:** Diagrama de flujo del proceso para sumar dos números ingresados por el usuario.
 
 ![Diagrama de flujo](../Imagenes/SumarNumeros.svg)
 
