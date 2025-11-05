@@ -256,7 +256,7 @@ title: Unidad 1
     display: inline-block;
     margin: 5px;
 ">
-💻 Códigos en Bloques
+💻 Códigos por Bloques
 </a>
 
 </div>
