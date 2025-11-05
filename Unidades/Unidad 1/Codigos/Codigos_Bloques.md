@@ -50,6 +50,10 @@ En esta actividad, el jugador debe programar un personaje (figura verde) para re
 Desarrollar el pensamiento lógico secuencial, planificando pasos precisos para alcanzar un objetivo usando bloques de movimiento y giros.  
 
 **Diagrama de bloques:**  
+
+
+**IMAGEN 8:** Diagrama de bloques de la Actividad 1 — Maze (Nivel 2).  
+
 ![Diagrama de flujo](../Imagenes/Bloques_1.png)
 
 ---
@@ -73,6 +77,11 @@ Programar el movimiento de un ave para que busque y recoja el gusano (`worm`) en
 Comprender el uso de condicionales (`if/else`) para que el programa responda a una situación.  
 
 **Diagrama de bloques:**  
+
+
+**IMAGEN 9:** Diagrama de bloques de la Actividad 2 — Bird (Nivel 2).  
+
+
 ![Diagrama de flujo](../Imagenes/Bloques_2.png)
 
 ---
@@ -96,6 +105,9 @@ Programar el movimiento de una tortuga para que dibuje un cuadrado en el espacio
 Usar bucles para ejecutar secuencias repetitivas y comprender cómo los ángulos de giro determinan la forma geométrica.  
 
 **Diagrama de bloques:**  
+
+**IMAGEN 10:** Diagrama de bloques de la Actividad 3 — Tortuga (Nivel 1).  
+
 ![Diagrama de flujo](../Imagenes/Bloques_3.png)
 
 ---
@@ -119,6 +131,10 @@ Programar la tortuga para dibujar un pentágono regular.
 Aprender a construir figuras con más lados usando bucles y entender cómo el ángulo de giro determina la forma del polígono.  
 
 **Diagrama de bloques:**  
+
+
+**IMAGEN 11:** Diagrama de bloques de la Actividad 4 — Tortuga (Nivel 2). 
+
 ![Diagrama de flujo](../Imagenes/Bloques_4.png)
 
 ---
