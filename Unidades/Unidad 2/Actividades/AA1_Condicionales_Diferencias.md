@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Actividad 3
+title: AA 1
 ---
 
 <div align="center">
 
-<!-- Botón para volver al índice -->
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -25,17 +24,48 @@ title: Actividad 3
 
 ---
 
-### 📝 Actividad 3 — Instalación de lenguajes de programación
+### 📘 AA 1 — Diferencias entre los tipos de estructuras condicionales
 
-📅 *Abrió:* Jueves, 16 de octubre de 2025  
-📅 *Cerró:* Lunes, 20 de octubre de 2025  
+📘 **Unidad:** 2 — Estructuras Algorítmicas de Control  
+📗 **Tipo:** Aprendizaje Autónomo (AA)  
+👤 **Modalidad:** Individual  
+📅 **Fecha:** Según planificación académica del periodo  
 
-> En esta actividad se revisaron tutoriales oficiales y se realizó la instalación de al menos un lenguaje de programación (C, Python o Java), documentando el proceso y verificando la correcta ejecución de un programa “Hola Mundo”.
+---
+
+### 🎯 **Objetivo**
+
+Analizar y representar los diferentes tipos de estructuras condicionales, aplicando diagramas de flujo y codificación en lenguaje de programación, con el fin de comprender su función en la resolución de problemas computacionales.
+
+---
+
+### 📝 **Descripción**
+
+El estudiante deberá:
+
+- Investigar tres tipos de estructuras condicionales: **if simple, if–else, if–else if, switch**.  
+- Resolver un ejercicio de la plataforma **HackerRank** que utilice sentencias condicionales.  
+- Elaborar:  
+  - Diagrama de flujo  
+  - Implementación en lenguaje C  
+- Redactar una conclusión personal sobre la importancia de las estructuras condicionales.  
+- Crear una **infografía** que sintetice la información.  
+
+📄 **Entregable:**  
+Un documento en formato PDF (infografía) que incluya:
+
+1. Carátula con datos de la institución, asignatura, unidad y estudiante.  
+2. Explicación de las estructuras condicionales analizadas + ejemplo (diagrama + código).  
+3. Conclusiones.  
+4. Bibliografía (formato IEEE).  
+5. Declaración de uso de IA (si aplica).  
+
+---
 
 <div align="center">
 
-<!-- Botón al enunciado del deber -->
-<a href="https://drive.google.com/file/d/1K0DcMqqjP88qm5GWH8aJ8JWSvH3ogrTN/view?usp=sharing" style="
+<!-- Botón al enunciado -->
+<a href="URL_DEL_ENUNCIADO" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -47,11 +77,11 @@ title: Actividad 3
     display: inline-block;
     margin: 5px 5px;
 ">
-📄 Enunciado del Deber
+📄 Enunciado AA 1
 </a>
 
-<!-- Botón a tu entrega -->
-<a href="https://drive.google.com/file/d/1dPa18HY3zJgwNw6pxkqBGEQaAo2m3th6/view?usp=sharing" style="
+<!-- Botón entrega -->
+<a href="URL_EVIDENCIA" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
@@ -63,33 +93,17 @@ title: Actividad 3
     display: inline-block;
     margin: 5px 5px;
 ">
-✅ Deber Realizado
+✅ Evidencia Entregada
 </a>
 
 </div>
-
 
 ---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<!-- Botón Clase anterior -->
-<a href="./herramientas_algoritmos" style="
-    background: linear-gradient(90deg, #F4511E, #FF7043);
-    color: white;
-    padding: 12px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-    display: inline-block;
-">
-⬅️ Actividad 2
-</a>
-
-<!-- Botón Clase siguiente -->
-<a href="./del_diseno_al_programa" style="
+<!-- Botón siguiente -->
+<a href="./AA2_Repetitivas_Comparacion" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
@@ -100,15 +114,14 @@ title: Actividad 3
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
 ">
-Actividad 4 ➡️
+AA 2 ➡️
 </a>
 
 </div>
 
 <div align="center">
 
-<!-- Botón para volver al índice -->
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -118,7 +131,7 @@ Actividad 4 ➡️
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
-    margin-bottom: 20px;
+    margin-top: 20px;
 ">
 ⬅️ Volver
 </a>
