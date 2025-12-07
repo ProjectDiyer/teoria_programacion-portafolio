@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clase 1
+title: Recurso 1
 ---
 
 <div align="center">
