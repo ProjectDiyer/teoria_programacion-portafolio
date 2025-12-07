@@ -29,7 +29,12 @@ title: Recurso 1
 
 ## 📄 Descripción
 
-En esta clase estudiamos las **estructuras algorítmicas condicionales**. A continuación, cada tema incluye un **espacio reservado** para ejemplos, ejercicios, código y diagramas de flujo.
+En este recurso estudiamos las **estructuras algorítmicas condicionales** y cómo permiten que un programa tome decisiones basadas en condiciones lógicas.  
+Se explican sus tipos, el uso correcto en diagramas de flujo y la forma de implementarlas en código C.
+
+Puedes revisar la **presentación completa del recurso** en el siguiente enlace:
+
+👉 [Presentación del recurso](https://drive.google.com/file/d/1oqoenH8GQfUIZVsjjh2g4x0TMx3YGkm9/view?usp=sharing)
 
 ---
 
