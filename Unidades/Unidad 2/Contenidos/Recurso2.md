@@ -29,7 +29,7 @@ title: Recurso 2
 
 ## 🔗 Enlace Oficial del Curso
 👉 **Curso completo:**  
-https://www.netacad.com/courses/python-essentials-1?courseLang=es-XL&instance_id=46878687-f15e-472f-9199-a3129d976ae8
+[https://www.netacad.com/courses/python-essentials-1?courseLang=es-XL&instance_id=46878687-f15e-472f-9199-a3129d976ae8](https://www.netacad.com/courses/python-essentials-1?courseLang=es-XL&instance_id=46878687-f15e-472f-9199-a3129d976ae8)
 
 ---
 
