@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Actividad 2
+title: APE 2
 ---
 
 <div align="center">
 
-<!-- Botón para volver al índice -->
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -25,17 +24,35 @@ title: Actividad 2
 
 ---
 
-### 📝 Actividad 2 — Herramientas digitales para pseudocódigo y diagramas de flujo
+### 🧪 APE 2 — Taller: Estructuras repetitivas
 
-📅 *Abrió:* Jueves, 9 de octubre de 2025  
-📅 *Cerró:* Lunes, 13 de octubre de 2025  
+📘 **Unidad:** 2 — Estructuras Algorítmicas de Control  
+🧑‍🏫 **Tipo:** Actividad Práctico-Experimental (APE)  
+👤 **Modalidad:** Individual  
+📅 **Fecha:** Jueves 27 de noviembre — Jueves 4 de diciembre del 2025  
+⏰ **Horario:** 10h30 – 13h30  
 
-> En esta actividad se exploraron y aplicaron herramientas digitales para la construcción de algoritmos en pseudocódigo y diagramas de flujo, elaborando un algoritmo sencillo y un informe que sintetiza los resultados.
+---
+
+### 🎯 **Objetivos**
+
+- Aplicar estructuras repetitivas en la solución de problemas algorítmicos.  
+- Diseñar y codificar algoritmos que utilicen ciclos controlados y validados.  
+- Automatizar procesos iterativos mediante el uso correcto de bucles.  
+
+---
+
+### 📝 **Descripción**
+
+En esta actividad se desarrolló un taller práctico basado en el uso de **estructuras repetitivas**, donde el estudiante elaboró un algoritmo capaz de procesar múltiples datos mediante ciclos.  
+Se trabajó con iteraciones controladas, ingreso validado de datos y cálculos repetitivos para resolver un problema de forma automatizada.
+
+---
 
 <div align="center">
 
-<!-- Botón al enunciado del deber -->
-<a href="https://drive.google.com/file/d/1YTOy4WkhGDh2lEshDxoF9-8j81yGnG5p/view?usp=sharing" style="
+<!-- Botón al enunciado -->
+<a href="URL_DEL_ENUNCIADO" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -47,11 +64,11 @@ title: Actividad 2
     display: inline-block;
     margin: 5px 5px;
 ">
-📄 Enunciado del Deber
+📄 Enunciado del Taller
 </a>
 
-<!-- Botón a tu entrega -->
-<a href="https://drive.google.com/file/d/1zorfKlN3DDEbHMf8mRzucPNirVF5QG0d/view?usp=sharing" style="
+<!-- Botón entrega -->
+<a href="URL_EVIDENCIA" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
@@ -63,7 +80,7 @@ title: Actividad 2
     display: inline-block;
     margin: 5px 5px;
 ">
-✅ Deber Realizado
+✅ Evidencia Entregada
 </a>
 
 </div>
@@ -72,8 +89,8 @@ title: Actividad 2
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<!-- Botón Clase anterior -->
-<a href="./primer_acercamiento" style="
+<!-- Botón siguiente -->
+<a href="./APE1_Condicionales" style="
     background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
@@ -84,30 +101,15 @@ title: Actividad 2
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
 ">
-⬅️ Actividad 1
+⬅️ APE 1
 </a>
 
-<!-- Botón Clase siguiente -->
-<a href="./instalacion_lenguajes" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
-    color: white;
-    padding: 12px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-    display: inline-block;
-">
-Actividad 3 ➡️
-</a>
 
 </div>
 
 <div align="center">
 
-<!-- Botón para volver al índice -->
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -117,7 +119,7 @@ Actividad 3 ➡️
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
-    margin-bottom: 20px;
+    margin-top: 20px;
 ">
 ⬅️ Volver
 </a>
