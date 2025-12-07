@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lección 1
+title: ACD 1
 ---
 
 <div align="center">
