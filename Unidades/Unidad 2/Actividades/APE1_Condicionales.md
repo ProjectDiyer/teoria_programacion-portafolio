@@ -42,8 +42,53 @@ title: APE 1
 
 ---
 
-<div align="center" style="margin-top: 20px;">
+### 📝 **Descripción**
 
+En esta actividad se trabajó en el desarrollo de ejercicios prácticos utilizando **estructuras condicionales**, aplicando lógica de decisión en la construcción de algoritmos y su ejecución en un lenguaje de programación.
+
+---
+
+<div align="center">
+
+<!-- Botón al enunciado -->
+<a href="URL_DEL_ENUNCIADO" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 5px;
+">
+📄 Enunciado del Taller
+</a>
+
+<!-- Botón entrega -->
+<a href="URL_EVIDENCIA" style="
+    background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px 5px;
+">
+✅ Evidencia Entregada
+</a>
+
+</div>
+
+---
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<!-- Botón siguiente -->
 <a href="./APE2_Repetitivas.md" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
