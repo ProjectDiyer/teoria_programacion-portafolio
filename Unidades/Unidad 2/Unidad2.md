@@ -35,11 +35,11 @@ title: Unidad 2
 
 ---
 
-## 🏫 Clases de la Unidad 2
+## 🏫 Recursos de la Unidad 2
 
 <div align="center">
 
-<a href="./Contenidos/Clase1_Estructuras_Condicionales" style="
+<a href="./Contenidos/Recurso1" style="
  background: linear-gradient(90deg, #1E88E5, #42A5F5);
  color: white;
  padding: 10px 25px;
@@ -51,9 +51,9 @@ title: Unidad 2
  display: inline-block;
  margin: 5px;
 ">
-🧩 Clase 1 — Estructuras algorítmicas condicionales </a>
+🧩 Recurso 1 — Estructuras algorítmicas condicionales </a>
 
-<a href="./Contenidos/Clase2_FundamentosPython1" style="
+<a href="./Contenidos/Recurso2" style="
  background: linear-gradient(90deg, #F4511E, #FF7043);
  color: white;
  padding: 10px 25px;
@@ -65,9 +65,9 @@ title: Unidad 2
  display: inline-block;
  margin: 5px;
 ">
-🐍 Clase 2 — Curso Fundamentos de Python 1 (UNL) </a>
+🐍 Recurso 2 — Curso Fundamentos de Python 1 (UNL) </a>
 
-<a href="./Contenidos/Clase3_Plataformas_Practica" style="
+<a href="./Contenidos/Recurso3" style="
  background: linear-gradient(90deg, #6A1B9A, #AB47BC);
  color: white;
  padding: 10px 25px;
@@ -79,9 +79,9 @@ title: Unidad 2
  display: inline-block;
  margin: 5px;
 ">
-🖥️ Clase 3 — Plataformas para practicar programación </a>
+🖥️ Recurso 3 — Plataformas para practicar programación </a>
 
-<a href="./Contenidos/Clase4_Estructuras_Repetitivas" style="
+<a href="./Contenidos/Recurso4" style="
  background: linear-gradient(90deg, #FF8F00, #FFC107);
  color: white;
  padding: 10px 25px;
@@ -93,7 +93,7 @@ title: Unidad 2
  display: inline-block;
  margin: 5px;
 ">
-🔁 Clase 4 — Estructuras algorítmicas repetitivas </a>
+🔁 Recurso 4 — Estructuras algorítmicas repetitivas </a>
 
 </div>
 
