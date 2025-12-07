@@ -35,7 +35,7 @@ Este tema forma parte de los fundamentos de la programación estructurada y perm
 
 Puedes revisar la **presentación completa del recurso** en el siguiente enlace:
 
-👉 *(Aquí irá tu enlace a la presentación del Recurso 4)*
+👉 [Presentación del recurso](https://drive.google.com/file/d/1Y6IFlWb455G5ArmlfCGUthmHPYysBR7_/view?usp=sharing)
 
 ---
 
