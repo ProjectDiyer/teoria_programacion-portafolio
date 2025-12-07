@@ -193,6 +193,59 @@ title: Unidad 2
 
 ---
 
+## 💾 Códigos de Programación realizados
+
+<div align="center">
+
+<a href="./Codigos/Codigos_C" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Ejercicios en C
+</a>
+
+<a href="./Codigos/Codigos_Python" style="
+    background: linear-gradient(90deg, #FF5722, #FF8A65);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Ejercicio en Python
+</a>
+
+<a href="./Codigos/Codigos_Java" style="
+    background: linear-gradient(90deg, #43A047, #00ACC1);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Ejercicio en Java
+</a>
+
+</div>
+
+---
+
 ## 💬 Reflexión Final
 
 > En esta unidad se profundizó en el uso de estructuras condicionales y repetitivas, fundamentales para controlar el flujo de un programa. La práctica guiada, autónoma y experimental permitió fortalecer el razonamiento lógico y la capacidad de resolver problemas con distintos tipos de estructuras.
