@@ -143,7 +143,7 @@ Examen externo que otorga la certificación:
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
 ">
-Recurso 3 ➡️
+Recurso 1 ➡️
 </a>
 
 <!-- Botón siguiente recurso -->
