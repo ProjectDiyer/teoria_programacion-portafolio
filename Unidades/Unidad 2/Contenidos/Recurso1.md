@@ -271,7 +271,7 @@ int main()
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase siguiente -->
-<a href="./Recurso1" style="
+<a href="./Recurso2" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
