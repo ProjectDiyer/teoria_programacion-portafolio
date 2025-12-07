@@ -246,6 +246,15 @@ title: Unidad 2
 
 ---
 
+## ⚠️ Principales dificultades encontradas
+
+- Errores frecuentes en programas en C por:
+  - no inicializar variables,
+  - olvidar el `;`,
+  - colocar mal las llaves `{}`.
+
+---
+
 ## 💬 Reflexión Final
 
 > En esta unidad se profundizó en el uso de estructuras condicionales y repetitivas, fundamentales para controlar el flujo de un programa. La práctica guiada, autónoma y experimental permitió fortalecer el razonamiento lógico y la capacidad de resolver problemas con distintos tipos de estructuras.
