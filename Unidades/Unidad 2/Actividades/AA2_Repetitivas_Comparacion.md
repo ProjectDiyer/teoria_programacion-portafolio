@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Actividad 1
+title: AA 2
 ---
 
 <div align="center">
 
-<!-- Botón para volver al índice -->
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -20,21 +19,54 @@ title: Actividad 1
 ">
 ⬅️ Volver
 </a>
+
 </div>
 
 ---
 
-### 📝 Actividad 1 — Primer acercamiento a la construcción de algoritmos en pseudocódigo
+### 📘 AA 2 — Cuadro comparativo entre las estructuras repetitivas
 
-📅 *Abrió:* Miércoles, 15 de octubre de 2025  
-📅 *Cerró:* Miércoles, 15 de octubre de 2025  
+📘 **Unidad:** 2 — Estructuras Algorítmicas de Control  
+📗 **Tipo:** Aprendizaje Autónomo (AA)  
+👤 **Modalidad:** Individual  
+📅 **Fecha:** Según planificación académica del periodo  
 
-> En esta actividad se trabajó en el desarrollo de algoritmos secuenciales en pseudocódigo utilizando PSeInt, aplicando los conceptos básicos de entrada, proceso y salida de datos.
+---
+
+### 🎯 **Objetivo**
+
+Analizar y comparar las principales estructuras repetitivas utilizadas en programación, identificando sus características, diferencias y aplicaciones.  
+
+---
+
+### 📝 **Descripción**
+
+El estudiante deberá:
+
+- Investigar los tres tipos principales de estructuras repetitivas: **for**, **while** y **do...while**.  
+- Elaborar una **tabla comparativa** que incluya tipo, estructura y uso.  
+- Resolver un ejercicio de la plataforma **OmegaUp** que haga uso de estructuras repetitivas, incluyendo:  
+  - Planteamiento del problema  
+  - **Diagrama de flujo**  
+  - **Implementación en lenguaje C**  
+- Escribir una **conclusión personal** sobre la importancia de las estructuras repetitivas en programación.  
+- Elaborar un **informe PDF** con la siguiente estructura:
+
+📄 **Entregable (PDF):**
+
+1. Carátula (institución, asignatura, unidad, tema, docente, estudiante).  
+2. Tabla comparativa de estructuras repetitivas.  
+3. Ejercicio (problema, diagrama, código en C).  
+4. Conclusiones.  
+5. Bibliografía con formato IEEE.  
+6. Declaración de uso de IA (si aplica).  
+
+---
 
 <div align="center">
 
-<!-- Botón al enunciado del deber -->
-<a href="https://drive.google.com/file/d/1cTe6JxdfXQRTGSUDpvEVuXPXwI-3Cjr1/view?usp=sharing" style="
+<!-- Botón al enunciado -->
+<a href="URL_DEL_ENUNCIADO" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -46,11 +78,11 @@ title: Actividad 1
     display: inline-block;
     margin: 5px 5px;
 ">
-📄 Enunciado del Deber
+📄 Enunciado AA 2
 </a>
 
-<!-- Botón a tu entrega -->
-<a href="https://drive.google.com/file/d/15cqRZs4SiSNCVnDZ8d3tayCRG_bGn0Fr/view?usp=sharing" style="
+<!-- Botón entrega -->
+<a href="URL_EVIDENCIA" style="
     background: linear-gradient(90deg, #6A1B9A, #AB47BC);
     color: white;
     padding: 10px 25px;
@@ -62,7 +94,7 @@ title: Actividad 1
     display: inline-block;
     margin: 5px 5px;
 ">
-✅ Deber Realizado
+✅ Evidencia Entregada
 </a>
 
 </div>
@@ -71,9 +103,9 @@ title: Actividad 1
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<!-- Botón Clase siguiente -->
-<a href="./herramientas_algoritmos" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+<!-- Botón regresar a AA 1 -->
+<a href="./AA1_Condicionales_Diferencias" style="
+    background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -83,15 +115,14 @@ title: Actividad 1
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
 ">
-Actividad 2 ➡️
+⬅️ AA 1
 </a>
 
 </div>
 
 <div align="center">
 
-<!-- Botón para volver al índice -->
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -101,7 +132,7 @@ Actividad 2 ➡️
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
-    margin-bottom: 20px;
+    margin-top: 20px;
 ">
 ⬅️ Volver
 </a>
