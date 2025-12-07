@@ -37,6 +37,10 @@ En este recurso exploramos **tres herramientas esenciales** para mejorar las hab
 
 Este recurso sirve como apoyo práctico para reforzar las habilidades de programación que estamos adquiriendo en la Unidad 2.
 
+Puedes revisar la **presentación completa del recurso** en el siguiente enlace:
+
+👉 [Presentación del recurso](https://drive.google.com/file/d/1tGTfBEKdtyDkWJsizORRmxQO_UPnqMRM/view?usp=sharing)
+
 ---
 
 # 🔹 1. Hackerrank
