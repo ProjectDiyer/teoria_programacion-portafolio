@@ -135,28 +135,33 @@ Este ejemplo muestra cómo se aplica cada tipo de ciclo en un caso real:
 ```c
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int i = 1;
 
     // Ejemplo con while
-    while (i <= 3) {
-        printf("While: %d\n", i);
+    while (i <= 3)
+    {
+        printf("Numero: %d\n", i);
         i++;
     }
 
     // Ejemplo con do-while
     int j = 1;
-    do {
-        printf("Do-While: %d\n", j);
+    do
+    {
+        printf("Numero: %d\n", j);
         j++;
     } while (j <= 3);
 
     // Ejemplo con for
-    for (int k = 1; k <= 3; k++) {
-        printf("For: %d\n", k);
+    for (int k = 1; k <= 3; k++)
+    {
+        printf("Numero: %d\n", k);
     }
 
     return 0;
+}
 }
 ```
 
