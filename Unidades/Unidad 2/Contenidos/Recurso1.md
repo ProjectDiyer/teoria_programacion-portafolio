@@ -282,7 +282,7 @@ int main()
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
 ">
-Clase 2 ➡️
+Recurso 2 ➡️
 </a>
 
 </div>
