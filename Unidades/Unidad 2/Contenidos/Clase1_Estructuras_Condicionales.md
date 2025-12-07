@@ -5,8 +5,8 @@ title: Clase 1
 
 <div align="center">
 
-<!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1" style="
+<!-- Botón para volver a la Unidad 2 -->
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -23,99 +23,250 @@ title: Clase 1
 
 </div>
 
-# 🧮 Clase 1 — Presentación Conceptos fundamentales de Algoritmos
+# 🧮 Clase 1 — **Estructuras Algorítmicas Condicionales**
 
 ---
 
 ## 📄 Descripción
 
-En esta clase vimos los fundamentos y etapas para resolver problemas mediante algoritmos y programas en computadoras.  
-Puedes revisar la [presentación completa de la clase](https://drive.google.com/file/d/1aYV_ripCYtv78KewLJXzWIeQKpVe1JXl/view?usp=sharing) para más detalles.
-
-Se explicó el proceso general de resolución de problemas mediante la interacción **hardware-software**, definiendo un algoritmo como un conjunto de pasos secuenciales que transforman datos de entrada en resultados útiles.  
-
-Se destacaron las tres partes principales de un algoritmo:
-- **Entradas:** datos necesarios para realizar la tarea.  
-- **Procesos:** acciones o cálculos realizados.  
-- **Salidas:** resultados obtenidos.  
-
-Para representar algoritmos de manera clara y estandarizada se utilizaron:
-- **Pseudocódigo:** descripción en lenguaje cercano al natural con estructura lógica.  
-- **Diagramas de flujo:** símbolos gráficos que representan el flujo de procesos.  
-
-El desarrollo de un programa paso a paso se explicó en cinco fases:
-1. **Análisis del problema**: identificación de datos, requisitos y restricciones.  
-2. **Diseño del algoritmo**: boceto del proceso usando pseudocódigo o diagramas de flujo.  
-3. **Codificación**: traducción del diseño a un lenguaje de programación.  
-4. **Pruebas**: verificación y corrección de errores.  
-5. **Documentación y mantenimiento**: registro detallado del proceso y preparación para futuras modificaciones.  
-
-Se mencionaron herramientas visuales como **PSeInt, Draw.io y Lucidchart**, así como tipos de algoritmos cualitativos y cuantitativos, enfatizando la estandarización de las instrucciones.
+En esta clase estudiamos las **estructuras algorítmicas condicionales**. A continuación, cada tema incluye un **espacio reservado** para ejemplos, ejercicios, código y diagramas de flujo.
 
 ---
 
-## 🧩 Actividad
+## 🔹 1. Estructuras de Control
 
-**Ejemplo de pseudocódigo en PSeInt:**
+Las **estructuras de control** permiten organizar y dirigir el flujo de un programa. Sin ellas, todas las instrucciones se ejecutarían de arriba hacia abajo sin ningún tipo de decisión o repetición.
 
-> El algoritmo lee dos números enteros ingresados por el usuario, calcula su suma y muestra el resultado en pantalla.
+Las estructuras principales son:
 
-**Pasos:**
-1. Solicita el primer y segundo número.  
-2. Realiza la operación: `suma ← num1 + num2`.  
-3. Muestra el resultado: `La suma es: (suma)`.
+- **Secuenciales:** instrucciones que se ejecutan en orden.
+- **Selectivas (Condicionales):** permiten tomar decisiones.
+- **Repetitivas:** permiten repetir acciones mientras se cumpla una condición.
 
-```pseudocode
-Algoritmo SumarNumeros
-    Definir num1, num2, suma Como Entero;
-    Escribir "Ingrese el primer número:";
-    Leer num1;
-    Escribir "Ingrese el segundo número:";
-    Leer num2;
-    suma <- num1 + num2;
-    Escribir "La suma es:", suma;
-FinAlgoritmo
+---
+### 🖼️ Diagrama de flujo
+
+![Diagrama](../Imagenes/clase1/estructura_control.svg)
+
+
+---
+### 📌 Implementación en C
+```c
+// Secuencia básica
+instruccion_1;
+instruccion_2;
+instruccion_3;
 ```
 
-**TABLA 1:** Prueba de escritorio del algoritmo *SumarNumeros*.
+---
 
-**Prueba de escritoriot:**
+## 🔹 2. Estructuras Algorítmicas Condicionales
 
-| **Caso** | **Entrada (num1)** | **Entrada (num2)** | **Proceso**             | **Salida**        |
-|-----------|--------------------|--------------------|--------------------------|-------------------|
-| 1         | 5                  | 3                  | suma ← 5 + 3 = 8         | La suma es: 8     |
-| 2         | 10                 | 15                 | suma ← 10 + 15 = 25      | La suma es: 25    |
-| 3         | -2                 | 7                  | suma ← -2 + 7 = 5        | La suma es: 5     |
-| 4         | 5                  | 7                  | suma ← 5 + 7 = 0         | La suma es: 12     |
+Las **estructuras condicionales** permiten elegir entre dos o más caminos dependiendo del resultado de una condición lógica.
 
-**Terminal:**
+Una **condición** siempre se evalúa como verdadera (true) o falsa (false).
 
-```terminal
-Ingrese el primer número:
-> 5
-Ingrese el segundo número:
-> 7
-La suma es: 12
+Ejemplos de condiciones:
+- a > b
+- edad >= 18
+- x != 0
+
+---
+### 🖼️ Diagrama de flujo
+
+![Diagrama](../Imagenes/clase1/condicional_basica.svg)
+
+
+---
+### 📌 Implementación en C
+```c
+if (condicion) {
+    // instrucciones si la condición es verdadera
+}
 ```
 
-**Diagrama de flujo:**
+---
 
-> El diagrama de flujo representa el proceso para sumar dos números ingresados por el usuario.  
-Inicia con la definición de las variables `num1`, `num2` y `suma`. Luego solicita los dos valores, realiza la operación `suma ← num1 + num2` y finalmente muestra el resultado en pantalla.  
-El proceso termina con el fin del algoritmo.
+## 🔹 3. Condicional Simple — *Si ... Entonces*
 
-**IMAGEN 1:** Diagrama de flujo del proceso para sumar dos números ingresados por el usuario.
+La condicional simple se ejecuta solo cuando la condición es verdadera.  
+Si es falsa, el bloque simplemente se ignora.
 
-![Diagrama de flujo](../Imagenes/SumarNumeros.svg)
+---
+### 🖼️ Diagrama de flujo
 
-> Esta actividad permitió practicar la creación de algoritmos secuenciales y su representación en pseudocódigo antes de codificar en un lenguaje real.
+![Diagrama](../Imagenes/clase1/condicional_simple.svg)
+
+
+---
+### 📌 Implementación en C
+```c
+if (condicion) {
+    // bloque si es verdadero
+}
+```
+
+---
+
+## 🔹 4. Condicional Doble — *Si ... Entonces ... Sino*
+
+Permite elegir entre dos caminos: uno cuando la condición es verdadera y otro cuando es falsa.
+
+---
+### 🖼️ Diagrama de flujo
+
+![Diagrama](../Imagenes/clase1/condicional_doble.svg)
+
+
+---
+### 📌 Implementación en C
+```c
+if (condicion) {
+    // bloque si es verdadero
+} else {
+    // bloque si es falso
+}
+```
+
+---
+
+## 🔹 5. Condicional Múltiple — *Según / Switch*
+
+Se usa cuando existen muchas opciones posibles.  
+El programa ejecutará únicamente el caso que coincida con la variable evaluada.
+
+---
+### 🖼️ Diagrama de flujo
+
+![Diagrama](../Imagenes/clase1/condicional_multiple.svg)
+
+
+---
+### 📌 Implementación en C
+```c
+switch(variable) {
+    case valor1:
+        // instrucciones
+        break;
+    case valor2:
+        // instrucciones
+        break;
+    ...
+    default:
+        // si no coincide ningún caso
+}
+```
+
+---
+
+## 🔹 6. Anidamiento de Condicionales
+
+Es cuando colocamos una estructura condicional **dentro de otra**.  
+Esto permite resolver problemas más complejos.
+
+Ejemplo típico: determinar el mayor de tres números.
+
+---
+### 🖼️ Diagrama de flujo
+
+![Diagrama](../Imagenes/clase1/anidado.svg)
+
+
+---
+### 📌 Implementación en C
+```c
+if (condicion1) {
+    if (condicion2) {
+        // instrucciones
+    }
+}
+```
+
+---
+
+## 🔹 7. Ejemplo con Condicional Múltiple (Selección entre varias opciones)
+
+
+La estructura condicional múltiple permite tomar una decisión entre **diversas alternativas**. Se usa cuando un valor puede representar varios casos diferentes.
+
+
+Es útil para:
+- Elegir una opción según un número introducido.
+- Mostrar mensajes según categorías.
+- Ejecutar procesos distintos según el valor de una variable.
+
+
+### 🔸 Diagrama de flujo
+
+
+![Diagrama](../Imagenes/clase1/ejemplo.svg)
+
+
+---
+
+
+### 🔸 Ejemplo en C
+
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int dia;
+    printf("Ingrese un número del 1 al 7: ");
+    scanf("%d", &dia);
+
+    switch (dia)
+    {
+    case 1:
+        printf("Lunes");
+        break;
+    case 2:
+        printf("Martes");
+        break;
+    case 3:
+        printf("Miércoles");
+        break;
+    case 4:
+        printf("Jueves");
+        break;
+    case 5:
+        printf("Viernes");
+        break;
+    case 6:
+        printf("Sábado");
+        break;
+    case 7:
+        printf("Domingo");
+        break;
+    default:
+        printf("Número inválido. Debe ser entre 1 y 7.");
+    }
+
+    return 0;
+}
+```
+
+
+---
+
+
+### 🔸 Explicación del ejemplo
+- El usuario ingresa un número del **1 al 7**.
+- Cada *case* representa un día de la semana.
+- `default` se ejecuta si el valor no coincide con ningún caso.
+- `break` evita que el programa siga ejecutando los demás casos.
+
+
+> Esta estructura es ideal para evitar múltiples `if-else` y organizar decisiones con varias opciones.
 
 ---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Clase siguiente -->
-<a href="./Clase2_Presentacion_Elementos" style="
+<a href="./Clase2" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 12px 25px;
@@ -131,11 +282,9 @@ Clase 2 ➡️
 
 </div>
 
-
 <div align="center">
-
-<!-- Botón para volver a la Unidad 1 -->
-<a href="../Unidad1" style="
+<!-- Botón para volver a la Unidad 2 -->
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -149,6 +298,4 @@ Clase 2 ➡️
 ">
 ⬅️ Volver
 </a>
-
 </div>
-
