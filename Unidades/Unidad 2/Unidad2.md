@@ -227,21 +227,6 @@ title: Unidad 2
 💻 Ejercicio en Python
 </a>
 
-<a href="./Codigos/Codigos_Java" style="
-    background: linear-gradient(90deg, #43A047, #00ACC1);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-💻 Ejercicio en Java
-</a>
-
 </div>
 
 ---
