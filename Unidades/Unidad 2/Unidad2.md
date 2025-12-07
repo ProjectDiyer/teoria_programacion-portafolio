@@ -1,11 +1,10 @@
 ---
+
 layout: default
 title: Unidad 2
----
+---------------
 
 <div align="center">
-
-<!-- Botón para volver al índice -->
 <a href="../../principal" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
@@ -20,40 +19,187 @@ title: Unidad 2
 ">
 ⬅️ Volver al Índice
 </a>
-
 </div>
 
-# 🧩 Unidad 2 — Control de flujo, condicionales y funciones
+# 🧩 Unidad 2 — Estructuras Algorítmicas de Control
 
 ---
 
+## 📘 Contenidos Generales de la Unidad
+
+* Estructuras algorítmicas condicionales
+* Estructuras algorítmicas repetitivas
+* Implementación de estructuras de control en un lenguaje de programación
+* Uso de plataformas para practicar programación
+* Fundamentos de Python (curso UNL / Cisco)
+
+---
+
+## 🏫 Clases de la Unidad 2
+
 <div align="center">
 
-<!-- Mensaje creativo de pendiente -->
-<a href="#" style="
-    background: linear-gradient(90deg, #B71C1C, #F44336);
-    color: white;
-    padding: 20px 40px;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    display: inline-block;
-    margin: 40px 0;
-    cursor: not-allowed;
+<a href="./Contenidos/Clase1_Estructuras_Condicionales" style="
+ background: linear-gradient(90deg, #1E88E5, #42A5F5);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
 ">
-⚠️ Unidad 2 aún no está disponible  
-📅 Próximamente se habilitarán contenidos y actividades
-</a>
+🧩 Clase 1 — Estructuras algorítmicas condicionales </a>
+
+<a href="./Contenidos/Clase2_FundamentosPython1" style="
+ background: linear-gradient(90deg, #F4511E, #FF7043);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+🐍 Clase 2 — Curso Fundamentos de Python 1 (UNL) </a>
+
+<a href="./Contenidos/Clase3_Plataformas_Practica" style="
+ background: linear-gradient(90deg, #6A1B9A, #AB47BC);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+🖥️ Clase 3 — Plataformas para practicar programación </a>
+
+<a href="./Contenidos/Clase4_Estructuras_Repetitivas" style="
+ background: linear-gradient(90deg, #FF8F00, #FFC107);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+🔁 Clase 4 — Estructuras algorítmicas repetitivas </a>
 
 </div>
 
 ---
 
+## 📚 Lecciones ACD — Contacto con el Docente
+
 <div align="center">
 
-<!-- Botón de regreso al índice -->
+<a href="./Lecciones/ACD1_Condicionales" style="
+ background: linear-gradient(90deg, #673AB7, #9575CD);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+📘 ACD 1 — Control de aprendizaje usando estructuras condicionales </a>
+
+</div>
+
+---
+
+## 🧪 APE — Aprendizaje Práctico Experimental
+
+<div align="center">
+
+<a href="./Actividades/APE1_Condicionales" style="
+ background: linear-gradient(90deg, #E91E63, #F06292);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+🧪 APE 1 — Aplicación de estructuras condicionales en resolución de problemas </a>
+
+<a href="./Actividades/APE2_Repetitivas" style="
+ background: linear-gradient(90deg, #C2185B, #EC407A);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+🔁 APE 2 — Aplicación de estructuras repetitivas en resolución de problemas </a>
+
+</div>
+
+---
+
+## 📌 AA — Aprendizaje Autónomo
+
+<div align="center">
+
+<a href="./Actividades/AA1_Condicionales_Diferencias" style="
+ background: linear-gradient(90deg, #009688, #4DB6AC);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+📄 AA 1 — Diferencias entre tipos de estructuras condicionales </a>
+
+<a href="./Actividades/AA2_Repetitivas_Comparacion" style="
+ background: linear-gradient(90deg, #00796B, #26A69A);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+📄 AA 2 — Cuadro comparativo de estructuras repetitivas </a>
+
+</div>
+
+---
+
+## 💬 Reflexión Final
+
+> En esta unidad se profundizó en el uso de estructuras condicionales y repetitivas, fundamentales para controlar el flujo de un programa. La práctica guiada, autónoma y experimental permitió fortalecer el razonamiento lógico y la capacidad de resolver problemas con distintos tipos de estructuras.
+
+---
+
+<div align="center">
 <a href="../../principal" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
@@ -68,6 +214,4 @@ title: Unidad 2
 ">
 ⬅️ Volver al Índice
 </a>
-
 </div>
-
