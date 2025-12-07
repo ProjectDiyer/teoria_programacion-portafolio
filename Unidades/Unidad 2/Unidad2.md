@@ -2,7 +2,7 @@
 
 layout: default
 title: Unidad 2
----------------
+---
 
 <div align="center">
 <a href="../../principal" style="
