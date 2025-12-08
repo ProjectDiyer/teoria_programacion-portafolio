@@ -54,8 +54,6 @@ Este ejercicio combina:
 
 ## 🖼️ Diagrama de flujo simplificado
 
-*(Aquí se colocará la imagen del diagrama cuando esté listo)*
-
 ![Diagrama](../Imagenes/codigo/flujo_descuentos.svg)
 
 ---
