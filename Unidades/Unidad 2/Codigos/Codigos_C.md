@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Códigos en C
+title: Códigos en C — Unidad 2
 ---
 
 <div align="center">
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -16,288 +16,329 @@ title: Códigos en C
     display: inline-block;
     margin-top: 20px;
 ">
-⬅️ Volver al Índice
+⬅️ Volver a Unidad 2
 </a>
-
 </div>
 
 ---
 
-# 💻 Códigos en Lenguaje C realizados
+# 💻 Códigos en Lenguaje C — Unidad 2
 
-En esta sección se recopilan los programas desarrollados en **lenguaje C**, junto con su descripción, propósito y código fuente.
+En esta sección se presentan programas desarrollados en **lenguaje C** aplicando las estructuras repetitivas vistas en los recursos de esta unidad.  
+A continuación cada bloque incluye un **placeholder para el diagrama de flujo** (ruta SVG) y el código en C.
+
+No incluyen pruebas de escritorio (según lo solicitado).
 
 ---
 
-## 🔹 1 — Hola Mundo
+## 🔹 1 — Suma acumulada con ciclo *while*
 
-**Archivo:** `hola_mundo.c`  
-**Descripción:** Programa sencillo que muestra en pantalla el mensaje "Hola Mundo".
+**Archivo:** `suma_while.c`  
+**Descripción:** Suma los números del 0 al 5 utilizando un ciclo `while`. Cada valor se acumula en la variable `acumulador`.
+
+### 🖼️ Diagrama de flujo
+![Diagrama](../Imagenes/codigo/suma_while.svg)
 
 **Código:**
 ```c
 #include <stdio.h>
 
 int main() {
-    printf("Hola Mundo\n");
-    return 0;
-}
-```
+    int contador = 0, acumulador = 0;
 
----
+    while (contador <= 5) 
+    {
+        acumulador = acumulador + contador;
+        contador++;
+    }
 
-## 🔹 2 — Suma de dos números
-
-**Archivo:** `suma_float.c`  
-**Descripción:** Programa que solicita al usuario dos números decimales (tipo `float`) y muestra su suma con dos cifras decimales.
-
-**Código:**
-```c
-#include <stdio.h>
-#include <string.h>
-
-int main(){
-
-    float numero1, numero2, suma;
-
-    printf("Ingrese el primer numero:\n");
-    scanf("%f", &numero1);
-    printf("Ingrese el segundo numero:\n");
-    scanf("%f", &numero2);
-    suma = numero1 + numero2;
-    printf("La suma de %.2f y %.2f es: %.2f\n", numero1, numero2, suma);
-
-    return 0;
-}
-```
-
-
-**TABLA 4:** Prueba de escritorio del programa *Suma de dos números.*
-
-### 🧩 Tabla de prueba de escritorio
-
-| **Caso** | **Entrada (numero1)** | **Entrada (numero2)** | **Proceso**               | **Salida**                                |
-|-----------|----------------------:|----------------------:|---------------------------|-------------------------------------------|
-| 1         | 5                    | 3                    | suma = 5 + 3 = 8          | La suma de 5.00 y 3.00 es: 8.00           |
-| 2         | 10.5                 | 4.3                  | suma = 10.5 + 4.3 = 14.8  | La suma de 10.50 y 4.30 es: 14.80         |
-| 3         | -2                   | 6                    | suma = -2 + 6 = 4         | La suma de -2.00 y 6.00 es: 4.00          |
-| 4         | 0                    | 0                    | suma = 0 + 0 = 0          | La suma de 0.00 y 0.00 es: 0.00           |
-| 5         | 150.25               | 349.75               | suma = 150.25 + 349.75 = 500.00 | La suma de 150.25 y 349.75 es: 500.00 |
-
----
-
-## 🔹 3 — Doble y triple de un número
-
-**Archivo:** `doble_triple.c`  
-**Descripción:** Programa que solicita un número al usuario y calcula su doble y su triple, mostrando ambos resultados.
-
-**Código:**
-```c
-#include <stdio.h>
-
-int main() {
+    printf("La suma es: %i\n", acumulador);
     
-    float numero,doble,triple;
-
-    printf("Ingtresa un numero: ");
-    scanf("%f", &numero);
-
-    doble = numero * 2;
-    triple = numero * 3;
-
-    printf("El doble de %.1f es: %.1f\n", numero, doble);
-    printf("El tripre de %.1f es: %.1f\n", numero, triple);
-
     return 0;
 }
 ```
 
-
-**TABLA 5:** Prueba de escritorio del programa *Doble y triple de un número.*
-
-### 🧩 Tabla de prueba de escritorio
-
-| **Caso** | **Entrada (numero)** | **Proceso**                             | **Salida**                                               |
-|-----------|---------------------:|------------------------------------------|----------------------------------------------------------|
-| 1         | 2                   | doble = 2 * 2 = 4<br>triple = 2 * 3 = 6  | El doble de 2.0 es: 4.0<br>El triple de 2.0 es: 6.0      |
-| 2         | 5.5                 | doble = 5.5 * 2 = 11<br>triple = 5.5 * 3 = 16.5 | El doble de 5.5 es: 11.0<br>El triple de 5.5 es: 16.5   |
-| 3         | -3                  | doble = -3 * 2 = -6<br>triple = -3 * 3 = -9 | El doble de -3.0 es: -6.0<br>El triple de -3.0 es: -9.0 |
-| 4         | 0                   | doble = 0 * 2 = 0<br>triple = 0 * 3 = 0  | El doble de 0.0 es: 0.0<br>El triple de 0.0 es: 0.0      |
-| 5         | 150                 | doble = 150 * 2 = 300<br>triple = 150 * 3 = 450 | El doble de 150.0 es: 300.0<br>El triple de 150.0 es: 450.0 |
-
 ---
 
-## 🔹4 — Cálculo de aceleración
+## 🔹 2 — Contador de números positivos (*do–while*)
 
-**Archivo:** `aceleracion.c`  
-**Descripción:** Programa que calcula la aceleración de un objeto utilizando la fórmula física \( a = \frac{v_f - v_i}{t} \), donde se ingresan la velocidad inicial, la velocidad final y el tiempo.
+**Archivo:** `contar_positivos.c`  
+**Descripción:** Solicita números al usuario y cuenta cuántos valores positivos se ingresaron.  
+El ciclo termina cuando se introduce un número negativo o cero.
+
+### 🖼️ Diagrama de flujo
+![Diagrama](../Imagenes/codigo/contar_positivos.svg)
 
 **Código:**
 ```c
 #include <stdio.h>
-int main(){
-    float velocidadI, velocidadF, tiempo, aceleracion;
-
-    printf("Ingrese la velocidad inicial (m/s): ");
-    scanf("%f", &velocidadI);
-
-    printf("Ingrese la velocidad final (m/s): ");
-    scanf("%f", &velocidadF);
-
-    printf("Ingrese el tiempo (s):");
-    scanf("%f", &tiempo);
-
-    aceleracion = (velocidadF-velocidadI)/tiempo;
-
-    printf("La aceleracion es: %.2f m/s^2\n", aceleracion);
-
-    return 0;
-}
-```
-
-
-**TABLA 6:** Prueba de escritorio del programa *Cálculo de aceleración.*
-
-### 🧩 Tabla de prueba de escritorio
-
-| **Caso** | **Velocidad Inicial (m/s)** | **Velocidad Final (m/s)** | **Tiempo (s)** | **Proceso**                                         | **Salida**                       |
-|-----------|----------------------------|---------------------------|----------------|----------------------------------------------------|----------------------------------|
-| 1         | 0                          | 10                        | 2              | aceleracion = (10 - 0) / 2 = 5                     | La aceleracion es: 5.00 m/s²    |
-| 2         | 5                          | 15                        | 5              | aceleracion = (15 - 5) / 5 = 2                     | La aceleracion es: 2.00 m/s²    |
-| 3         | 20                         | 0                         | 4              | aceleracion = (0 - 20) / 4 = -5                    | La aceleracion es: -5.00 m/s²   |
-| 4         | 3                          | 3                         | 10             | aceleracion = (3 - 3) / 10 = 0                     | La aceleracion es: 0.00 m/s²    |
-| 5         | 12                         | 24                        | 6              | aceleracion = (24 - 12) / 6 = 2                    | La aceleracion es: 2.00 m/s²    |
-
-
----
-
-## 🔹 Ejemplo 5 — Separar parte entera y decimal
-
-**Archivo:** `parte_entera_decimal.c`  
-**Descripción:** Programa que separa la parte entera y la parte decimal de un número ingresado por el usuario utilizando la función `modf()` de la biblioteca `<math.h>`.
-
-**Código:**
-```c
-#include <stdio.h>
-#include <math.h>
 
 int main() {
-    double numero, parte_entera, parte_decimal;
 
-    printf("Ingrese un numero decimal: ");
-    scanf("%lf", &numero);
+    int valor = 0, contador = 0;
 
-    parte_decimal = modf(numero, &parte_entera);
+    do
+    {
+        printf("Ingrese un numero:\n");
+        scanf("%i", &valor);
+        getchar();
 
-    printf("Parte entera: %.0f\n", parte_entera);
-    printf("Parte decimal: %.2f\n", parte_decimal);
+        if (valor > 0)
+        {
+            contador = contador + 1;
+        }
 
-    return 0;
+    } while (valor > 0);
+    
+    printf("Numeros positivos ingresados son: %i\n", contador);
+    return 0;   
 }
 ```
 
-
-**TABLA 7:** Prueba de escritorio del programa *Separar parte entera y decimal.*
-
-### 🧩 Tabla de prueba de escritorio
-
-| **Caso** | **Entrada (numero)** | **Proceso**                                             | **Salida**                          |
-|-----------|---------------------|--------------------------------------------------------|-------------------------------------|
-| 1         | 12.34               | parte_entera = 12<br>parte_decimal = 0.34             | Parte entera: 12<br>Parte decimal: 0.34 |
-| 2         | -5.78               | parte_entera = -5<br>parte_decimal = -0.78            | Parte entera: -5<br>Parte decimal: -0.78 |
-| 3         | 0.99                | parte_entera = 0<br>parte_decimal = 0.99              | Parte entera: 0<br>Parte decimal: 0.99 |
-| 4         | 100.0               | parte_entera = 100<br>parte_decimal = 0.00            | Parte entera: 100<br>Parte decimal: 0.00 |
-| 5         | -0.25               | parte_entera = 0<br>parte_decimal = -0.25             | Parte entera: 0<br>Parte decimal: -0.25 |
-
 ---
 
-## 🔹 Ejemplo 6 — Distancia entre dos puntos
+## 🔹 3 — Suma de fracciones con ciclo *for*
 
-**Archivo:** `distancia_puntos.c`  
-**Descripción:** Programa que calcula la distancia entre dos puntos en el plano cartesiano utilizando la fórmula de distancia y la función `sqrt()` de la biblioteca `<math.h>`.
+**Archivo:** `suma_fracciones.c`  
+**Descripción:** Calcula la suma de la serie  
+\[
+\frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \dots + \frac{1}{50}
+\]  
+utilizando un bucle `for`.
 
-**Código:**
-```c
-#include <stdio.h>
-#include <math.h>
-
-int main(){
-
-    float x1, y1, x2, y2, distancia;
-
-    printf("Ingrese los datos del punto A (x1, y1):\n");
-    scanf("%f %f", &x1, &y1);
-
-    printf("Ingrese los datos del punto B (x2, y2):\n");
-    scanf("%f %f", &x2, &y2);
-
-    distancia = sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
-
-    printf("La distancia entre los puntos es: %.2f\n", distancia);
-
-    return 0;
-}
-```
-
-
-**TABLA 8:** Prueba de escritorio del programa *Distancia entre dos puntos.*
-
-### 🧩 Tabla de prueba de escritorio
-
-| **Caso** | **Punto A (x1, y1)** | **Punto B (x2, y2)** | **Proceso**                                                        | **Salida**                         |
-|-----------|---------------------|---------------------|-------------------------------------------------------------------|------------------------------------|
-| 1         | (0, 0)              | (3, 4)              | distancia = sqrt((3-0)² + (4-0)²) = sqrt(9 + 16) = 5              | La distancia entre los puntos es: 5.00 |
-| 2         | (1, 2)              | (4, 6)              | distancia = sqrt((4-1)² + (6-2)²) = sqrt(9 + 16) = 5              | La distancia entre los puntos es: 5.00 |
-| 3         | (-2, -3)            | (1, 1)              | distancia = sqrt((1+2)² + (1+3)²) = sqrt(9 + 16) = 5              | La distancia entre los puntos es: 5.00 |
-| 4         | (0, 0)              | (0, 0)              | distancia = sqrt((0-0)² + (0-0)²) = sqrt(0 + 0) = 0               | La distancia entre los puntos es: 0.00 |
-
----
-
-## 🔹 7 — Conversión de metros a otras unidades
-
-**Archivo:** `conversion_metros.c`  
-**Descripción:** Programa que convierte una cantidad en metros a kilómetros, centímetros y milímetros, mostrando los resultados con dos decimales.
+### 🖼️ Diagrama de flujo
+![Diagrama](../Imagenes/codigo/suma_fracciones.svg)
 
 **Código:**
 ```c
 #include <stdio.h>
 
-int main(){
-    float metros, kilometros, centimetros, milimetros;
+int main() {
 
-    printf("Ingrese la cantidad en metros: ");
-    scanf("%f", &metros);
+    float i, numerador = 1, suma = 0;
 
-    kilometros = metros / 1000;
-    centimetros = metros * 100;
-    milimetros = metros * 1000;
+    for (i = 2; i <= 50; i++)
+    {
+        suma = suma + (numerador / i);
+    }
 
-    printf("%.2f metros son:\n", metros);
-    printf("%.2f kilometros\n", kilometros);
-    printf("%.2f centimetros\n", centimetros);
-    printf("%.2f milimetros\n", milimetros);
+    printf("La suma de las fracciones es: %.2f\n", suma);
 
     return 0;
 }
 ```
 
+---
 
-**TABLA 9:** Prueba de escritorio del programa *Conversión de metros a otras unidades.*
+## 🔹 4 — Tablas de multiplicar del 1 al 12
 
-### 🧩 Tabla de prueba de escritorio
+**Archivo:** `tablas_multiplicar.c`  
+**Descripción:** Muestra las tablas de multiplicar del **1 al 12**, cada una del 1 al 10.
 
-| **Caso** | **Entrada (metros)** | **Proceso**                                                        | **Salida**                                                        |
-|-----------|--------------------:|-------------------------------------------------------------------|-------------------------------------------------------------------|
-| 1         | 1                  | kilometros = 1 / 1000 = 0.001<br>centimetros = 1 * 100 = 100<br>milimetros = 1 * 1000 = 1000 | 1.00 metros son:<br>0.00 kilometros<br>100.00 centimetros<br>1000.00 milimetros |
-| 2         | 0.5                | kilometros = 0.5 / 1000 = 0.0005<br>centimetros = 0.5 * 100 = 50<br>milimetros = 0.5 * 1000 = 500 | 0.50 metros son:<br>0.00 kilometros<br>50.00 centimetros<br>500.00 milimetros |
-| 3         | 123                | kilometros = 123 / 1000 = 0.123<br>centimetros = 123 * 100 = 12300<br>milimetros = 123 * 1000 = 123000 | 123.00 metros son:<br>0.12 kilometros<br>12300.00 centimetros<br>123000.00 milimetros |
-| 4         | 0                  | kilometros = 0 / 1000 = 0<br>centimetros = 0 * 100 = 0<br>milimetros = 0 * 1000 = 0 | 0.00 metros son:<br>0.00 kilometros<br>0.00 centimetros<br>0.00 milimetros |
+### 🖼️ Diagrama de flujo
+![Diagrama](../Imagenes/codigo/tablas_multiplicar.svg)
+
+**Código:**
+```c
+#include <stdio.h>
+
+int main() {
+
+    int tabla = 1, i = 1;
+
+    for (tabla = 1; tabla <= 12; tabla++)
+    {
+        printf("\nTabla de multiplicar del %i:\n", tabla);
+        
+        for (i = 1; i <= 10; i++)
+        {
+            printf("%i x %i = %i\n", tabla, i, tabla * i);
+        }
+    }
+    
+    return 0;    
+}
+```
+
+---
+
+## 🔹 5 — Contador de entradas positivas (*while*)
+
+**Archivo:** `contador_entradas.c`  
+**Descripción:** Cuenta cuántos números positivos ingresa el usuario.  
+El ciclo termina cuando se introduce un número negativo o cero.
+
+### 🖼️ Diagrama de flujo
+![Diagrama](../Imagenes/codigo/contador_entradas.svg)
+
+**Código:**
+```c
+#include <stdio.h>
+
+int main() {
+
+    int numero = 1, total = 0;
+
+    while (numero > 0)
+    {
+        printf("Ingrese un numero positivo:\n");
+        scanf("%i", &numero);
+        getchar();
+
+        total = total + 1;
+    }
+
+    printf("Numeros positivos ingresados son: %i\n", total - 1);
+
+    return 0;
+}
+```
+
+---
+
+## 🔹 6 — Evaluación de estudiantes (validación y ponderación)  
+
+**Archivo:** `evaluacion_estudiantes.c`  
+**Descripción:** Lee las notas (ACD, APE, AA, ES) de N estudiantes, valida que cada nota esté entre 0 y 10, calcula las ponderaciones por componente, determina la nota final por estudiante y su nivel de desempeño, y finalmente muestra el promedio del grupo.
+
+### 🖼️ Diagrama de flujo
+![Diagrama](../Imagenes/codigo/evaluacion_estudiantes.svg)
+
+**Código:**
+```c
+#include <stdio.h>
+
+int main()
+{
+    // Definición de variables
+    int i = 1, numeroEstudiantes;
+    float acd1, acd2, acdFinal, ape1, ape2, apeFinal, aa1, aa2, aaFinal, es1, es2, esFinal, notaFinal;
+    float nota = 0.0;
+    char *nivelDesempeno;
+
+    // Datos de entrada
+    printf("Ingrese el numero de estudiantes a evaluar: ");
+    scanf("%d", &numeroEstudiantes);
+
+    printf("\nLas notas deben de ser ingresadas en una escala de 0 a 10.\n");
+    printf("Ejemplo de ingreso de nota: 9 10\n");
+
+    for (i = 1; i <= numeroEstudiantes; i++)
+    {
+
+        printf("\n--- Estudiante %d ---\n", i);
+        do
+        {
+            printf("Ingrese las notas del ACD 1 Y ACD 2:\n");
+            scanf("%f %f", &acd1, &acd2);
+            getchar();
+
+            if (acd1 < 0 || acd1 > 10 || acd2 < 0 || acd2 > 10)
+            {
+                printf("Error: Las notas deben estar entre 0 y 10. Por favor, ingrese nuevamente.\n");
+            }
+        } while (acd1 < 0 || acd1 > 10 || acd2 < 0 || acd2 > 10);
+
+        do
+        {
+            printf("Ingrese las notas del APE 1 Y APE 2:\n");
+            scanf("%f %f", &ape1, &ape2);
+            getchar();
+
+            if (ape1 < 0 || ape1 > 10 || ape2 < 0 || ape2 > 10)
+            {
+                printf("Error: Las notas deben estar entre 0 y 10. Por favor, ingrese nuevamente.\n");
+            }
+        } while (ape1 < 0 || ape1 > 10 || ape2 < 0 || ape2 > 10);
+
+        do
+        {
+            printf("Ingrese las notas del AA 1 Y AA 2:\n");
+            scanf("%f %f", &aa1, &aa2);
+            getchar();
+
+            if (aa1 < 0 || aa1 > 10 || aa2 < 0 || aa2 > 10)
+            {
+                printf("Error: Las notas deben estar entre 0 y 10. Por favor, ingrese nuevamente.\n");
+            }
+        } while (aa1 < 0 || aa1 > 10 || aa2 < 0 || aa2 > 10);
+
+        do
+        {
+            printf("Ingrese las notas del ES 1 Y ES 2:\n");
+            scanf("%f %f", &es1, &es2);
+            getchar();
+
+            if (es1 < 0 || es1 > 10 || es2 < 0 || es2 > 10)
+            {
+                printf("Error: Las notas deben estar entre 0 y 10. Por favor, ingrese nuevamente.\n");
+            }
+        } while (es1 < 0 || es1 > 10 || es2 < 0 || es2 > 10);
+
+        // Proceso
+
+        // ACD ponderado de 2 puntos (20%)
+        acdFinal = (acd1 + acd2) / 2.0f;
+        acdFinal = acdFinal * 0.20f;
+
+        // APE ponderado de 2.5 puntos (25%)
+        apeFinal = (ape1 + ape2) / 2.0f;
+        apeFinal = apeFinal * 0.25f;
+
+        // AA ponderado de 2 puntos (20%)
+        aaFinal = (aa1 + aa2) / 2.0f;
+        aaFinal = aaFinal * 0.20f;
+
+        // ES ponderado de 3.5 (35%)
+        esFinal = (es1 * 0.40f + es2 * 0.60f);
+        esFinal = esFinal * 0.35f;
+
+        // Nota final de la unidad 1
+        notaFinal = acdFinal + apeFinal + aaFinal + esFinal;
+        nota += notaFinal;
+
+        // Nivel de desempeño del promedio de la unidad 1
+        if (notaFinal >= 9.0f)
+        {
+            nivelDesempeno = "Excelente";
+        }
+        else if (notaFinal >= 7.0f && notaFinal < 9.0f)
+        {
+            nivelDesempeno = "Bueno";
+        }
+        else if (notaFinal >= 5.0f && notaFinal < 7.0f)
+        {
+            nivelDesempeno = "Regular";
+        }
+        else if (notaFinal < 5.0f)
+        {
+            nivelDesempeno = "Deficiente";
+        }
+        else
+        {
+            nivelDesempeno = "Error";
+        }
+
+        // Datos de salida
+        printf("--- Resultados del Estudiante %d ---\n", i);
+        printf("La nota ponderada de ACD es: %.2f\n", acdFinal);
+        printf("La nota ponderada de APE es: %.2f\n", apeFinal);
+        printf("La nota ponderada de AA es: %.2f\n", aaFinal);
+        printf("La nota ponderada de ES es: %.2f\n", esFinal);
+        printf("La nota final de la Unidad 1 es: %.2f\n", notaFinal);
+        printf("El nivel de desempeno es: %s\n", nivelDesempeno);
+        printf("\n------------------------------------\n");
+    }
+
+    printf("\nLa nota final del grupo de estudiantes es: %.2f\n", nota / numeroEstudiantes);
+    return 0;
+}
+```
 
 ---
 
 <div align="center">
-
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -309,7 +350,6 @@ int main(){
     display: inline-block;
     margin-top: 20px;
 ">
-⬅️ Volver al Índice
+⬅️ Volver a Unidad 2
 </a>
-
 </div>
