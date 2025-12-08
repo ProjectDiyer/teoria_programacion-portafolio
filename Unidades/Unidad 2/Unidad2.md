@@ -233,10 +233,14 @@ title: Unidad 2
 
 ## ⚠️ Principales dificultades encontradas
 
-- Errores frecuentes en programas en C por:
-  - no inicializar variables,
-  - olvidar el `;`,
-  - colocar mal las llaves `{}`.
+- **No inicializar algunas variables**  
+  En algunos programas las variables, especialmente contadores y acumuladores, no tenían un valor inicial, generando resultados incorrectos.
+
+- **Olvido del punto y coma (`;`) en C**  
+  Al escribir instrucciones se omitieron algunos `;`, provocando errores de compilación.
+
+- **Llaves `{}` mal ubicadas en estructuras de control**  
+  En ciertos ejercicios las llaves abrían o cerraban en el lugar incorrecto, afectando la lógica de condicionales y ciclos.
 
 ---
 
