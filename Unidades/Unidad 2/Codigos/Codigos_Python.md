@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Códigos en PSeInt
+title: Ejercicio Condicional + Repetitiva — Unidad 2
 ---
 
 <div align="center">
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
@@ -16,232 +16,110 @@ title: Códigos en PSeInt
     display: inline-block;
     margin-top: 20px;
 ">
-⬅️ Volver al Índice
+⬅️ Volver a Unidad 2
 </a>
 </div>
 
 ---
 
-# 💻 Códigos en PSeInt
-
-En esta sección se recopilan los programas desarrollados en **PSeInt**, con pseudocódigo, diagramas de flujo y tablas de prueba de escritorio.
-
----
-
-## 🔹 1 — Volumen de una caja
-
-**Archivo:** `volumen_caja.psc`  
-**Descripción:** Calcula el volumen de una caja ingresando sus dimensiones A, B y C.  
-
-**Pseudocódigo:**
-```
-Algoritmo volumen_caja
-
-    Definir A, B, C, volumen Como Real;
-
-    Escribir "Ingrese la dimension A: ";
-    Leer A;
-    Escribir "Ingrese la dimension B: ";
-    Leer B;
-    Escribir "Ingrese la dimension C: ";
-    Leer C;
-
-    volumen = A * B * C;
-
-    Escribir "El volumen de la caja es: ", volumen;
-
-FinAlgoritmo
-```
-
-**Diagrama de flujo:**  
-
-
-**IMAGEN 4:** Diagrama de flujo del cálculo del volumen de una caja.  
-
-![Diagrama de flujo](../Imagenes/volumen_caja.svg)  
-
-**Descripción detallada del diagrama:**  
-1. Inicio del algoritmo.  
-2. Entrada de las dimensiones A, B y C.  
-3. Cálculo del volumen multiplicando A*B*C.  
-4. Mostrar el volumen.  
-5. Fin del algoritmo.  
-> Flujo secuencial lineal sin decisiones.
-
-### 🧩 Tabla de prueba de escritorio
-
-
-**TABLA 10:** Prueba de escritorio del cálculo del volumen de una caja. 
-
-| **Caso** | **A** | **B** | **C** | **Proceso**          | **Salida**                 |
-|-----------|-------|-------|-------|--------------------|----------------------------|
-| 1         | 2     | 3     | 4     | 2*3*4 = 24         | 24                         |
-| 2         | 5     | 5     | 5     | 5*5*5 = 125        | 125                        |
-| 3         | 1.5   | 2     | 3     | 1.5*2*3 = 9        | 9                          |
-| 4         | 0     | 10    | 2     | 0*10*2 = 0         | 0                          |
+# 💻 Ejercicio Combinado: Estructura Condicional + Repetitiva  
+**Lenguaje:** Python  
+**Tema:** Registro de compras con descuento automático
 
 ---
 
-## 🔹 2 — Sueldo de un asesor
+## 📝 Descripción del problema
 
-**Archivo:** `sueldo_asesor.psc`  
-**Descripción:** Calcula el sueldo total de un asesor por 3 meses, ingresando el sueldo mensual.  
+Un supermercado necesita un programa que registre el monto de varios productos comprados por un cliente.  
+El sistema permite ingresar cada precio hasta que el usuario escriba **0**, lo cual finaliza el registro.
 
-**Pseudocódigo:**
-```
-Algoritmo sueldo_asesor
+Al terminar, se debe aplicar un descuento según el total:
 
-    Definir sueldo_mensual, sueldo_total Como Real;
+- Si el total es **≥ 100** → 10% de descuento  
+- Si el total está entre **50 y 99.99** → 5% de descuento  
+- Si el total es **< 50** → sin descuento
 
-    Escribir "Ingrese el sueldo mensual del asesor: ";
-    Leer sueldo_mensual;
+El programa debe mostrar:
 
-    sueldo_total = sueldo_mensual * 3;
+- Total antes del descuento  
+- Porcentaje aplicado  
+- Total final a pagar  
 
-    Escribir "El sueldo total del asesor es: ", sueldo_total;
-FinAlgoritmo
-```
+Este ejercicio combina:
 
-**Diagrama de flujo:**  
-
-
-**IMAGEN 5:** Diagrama de flujo del cálculo del sueldo total de un asesor.
-
-![Diagrama de flujo](../Imagenes/sueldo_asesor.svg)  
-
-**Descripción detallada del diagrama:**  
-1. Inicio del algoritmo.  
-2. Entrada del sueldo mensual.  
-3. Multiplicación por 3 para obtener el sueldo total.  
-4. Mostrar sueldo total.  
-5. Fin del algoritmo.  
-> Flujo lineal, sin decisiones.
-
-### 🧩 Tabla de prueba de escritorio
-
-
-**TABLA 11:** Prueba de escritorio del cálculo del sueldo total de un asesor.
-
-| **Caso** | **Sueldo Mensual** | **Proceso**          | **Salida**                   |
-|-----------|------------------|--------------------|------------------------------|
-| 1         | 500              | 500*3 = 1500       | 1500                         |
-| 2         | 750.50           | 750.5*3 = 2251.5   | 2251.5                       |
-| 3         | 0                | 0*3 = 0            | 0                            |
-| 4         | 1200             | 1200*3 = 3600      | 3600                         |
+✔ **Repetición** (pedir precios uno por uno)  
+✔ **Condicionales** (aplicar el descuento según el total)
 
 ---
 
-## 🔹 3 — Cambio a recibir
+## 🖼️ Diagrama de flujo simplificado
 
-**Archivo:** `cambio.psc`  
-**Descripción:** Calcula el cambio que recibirá una persona según el dinero disponible y el precio del producto.  
+*(Aquí se colocará la imagen del diagrama cuando esté listo)*
 
-**Pseudocódigo:**
-```
-Algoritmo cambio
-
-    Definir dinero, precio, vuelto Como Real;
-
-    Escribir "Ingrese el dinero que posee: ";
-    Leer dinero;
-    Escribir "Ingrese el precio del producto: ";
-    Leer precio;
-
-    vuelto = dinero - precio;
-
-    Escribir "El cambio a recibir es: ", vuelto;
-FinAlgoritmo
-```
-
-**Diagrama de flujo:**  
-
-
-**IMAGEN 6:** Diagrama de flujo del cálculo del cambio a recibir.  
-
-![Diagrama de flujo](../Imagenes/cambio.svg)  
-
-**Descripción detallada del diagrama:**  
-1. Inicio.  
-2. Entrada de dinero y precio.  
-3. Resta dinero - precio para calcular cambio.  
-4. Mostrar cambio.  
-5. Fin del algoritmo.  
-> Flujo lineal, se podría agregar decisión para verificar si dinero < precio.
-
-### 🧩 Tabla de prueba de escritorio
-
-
-**TABLA 12:** Prueba de escritorio del cálculo del cambio a recibir.  
-
-| **Caso** | **Dinero** | **Precio** | **Proceso**        | **Salida**            |
-|-----------|------------|------------|------------------|----------------------|
-| 1         | 50         | 30         | 50-30 = 20       | 20                   |
-| 2         | 100        | 45.5       | 100-45.5 = 54.5  | 54.5                 |
-| 3         | 20         | 20         | 20-20 = 0        | 0                    |
-| 4         | 10         | 15         | 10-15 = -5       | -5                   |
+![Diagrama](../Imagenes/codigo/flujo_descuentos.svg)
 
 ---
 
-## 🔹 4 — Porcentaje de mujeres y hombres
+## 🧠 Programa en Python
 
-**Archivo:** `porcentaje_mujeres_hombres.psc`  
-**Descripción:** Calcula el porcentaje de mujeres y hombres dado la cantidad de cada categoría.  
+```python
+# Definicion de variables
+i = 1
+totalmonto = 0
+compra = 0
+totalFinal = 0
+descuento = 0
+final = False
 
-**Pseudocódigo:**
+# Proceso
+
+while final == False:
+
+    if totalmonto == 0:
+        print("Ingrese el costo del producto", i, ":")
+    else:
+        print("Ingrese el costo del producto", i, "(Ingrese 0 para terminar):")
+
+    compra = float(input("> "))
+
+    totalmonto += compra
+    i += 1
+
+    if compra <= 0:
+        final = True
+
+
+if totalmonto >= 100:
+    descuento = 10
+    totalFinal = totalmonto * 0.90
+
+elif totalmonto >= 50:
+    descuento = 5
+    totalFinal = totalmonto * 0.95
+
+else:
+    descuento = 0
+    totalFinal = totalmonto
+
+
+# Salida
+print("\n--- RESULTADOS DE LA COMPRA ---")
+print("Total de la compra es:", totalmonto, "$")
+print("Descuento aplicado:", descuento, "%")
+print(f"Total final a pagar: {totalFinal:.2f} $")
+
 ```
-Algoritmo porcentaje_mujeres_hombres
+---
 
-    Definir mujeres, hombres, total Como Entero;
-    Definir porcentaje_mujeres, porcentaje_hombres Como Real;
+## 🔍 Verificación del funcionamiento
 
-    Escribir "Ingrese la cantidad de mujeres: ";
-    Leer mujeres;
-    Escribir "Ingrese la cantidad de hombres: ";
-    Leer hombres;
-
-    total = mujeres + hombres;
-    porcentaje_mujeres = (mujeres / total) * 100;
-    porcentaje_hombres = (hombres / total) * 100;
-
-    Escribir "Porcentaje de mujeres: ", porcentaje_mujeres, "%";
-    Escribir "Porcentaje de hombres: ", porcentaje_hombres, "%";
-FinAlgoritmo
-```
-
-**Diagrama de flujo:**  
-
-
-**IMAGEN 7:** Diagrama de flujo del cálculo del porcentaje de mujeres y hombres.  
-
-![Diagrama de flujo](../Imagenes/porcentaje_mujeres_hombres.svg)  
-
-**Descripción detallada del diagrama:**  
-1. Inicio.  
-2. Entrada de la cantidad de mujeres y hombres.  
-3. Suma total = mujeres + hombres.  
-4. Cálculo de porcentaje de mujeres = (mujeres / total)*100.  
-5. Cálculo de porcentaje de hombres = (hombres / total)*100.  
-6. Mostrar ambos porcentajes.  
-7. Fin del algoritmo.  
-> Flujo lineal con cálculos dependientes del total; se puede validar total ≠ 0 para evitar división entre cero.
-
-### 🧩 Tabla de prueba de escritorio
-
-**TABLA 13:** Prueba de escritorio del cálculo del porcentaje de mujeres y hombres.
-
-| **Caso** | **Mujeres** | **Hombres** | **Total** | **% Mujeres** | **% Hombres** |
-|-----------|--------------|--------------|------------|----------------|----------------|
-| 1         | 20           | 20           | 40         | 50%             | 50%             |
-| 2         | 30           | 10           | 40         | 75%             | 25%             |
-| 3         | 15           | 25           | 40         | 37.5%           | 62.5%           |
-| 4         | 0            | 10           | 10         | 0%              | 100%            |
-| 5         | 12           | 0            | 12         | 100%            | 0%              |
+![Verificación](../Imagenes/codigo/verificacion.png)
 
 ---
 
 <div align="center">
 
-<a href="../Unidad1" style="
+<a href="../Unidad2" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
     padding: 12px 30px;
