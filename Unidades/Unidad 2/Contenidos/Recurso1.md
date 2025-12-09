@@ -95,7 +95,7 @@ if (condicion) {
 
 ---
 
-## 🔹 3. Condicional Simple — *Si ... Entonces*
+## 🔹 3. Condicional Simple — *Si*
 
 La condicional simple se ejecuta solo cuando la condición es verdadera.  
 Si es falsa, el bloque simplemente se ignora.
@@ -116,7 +116,7 @@ if (condicion) {
 
 ---
 
-## 🔹 4. Condicional Doble — *Si ... Entonces ... Sino*
+## 🔹 4. Condicional Doble — *Si ... Entonces*
 
 Permite elegir entre dos caminos: uno cuando la condición es verdadera y otro cuando es falsa.
 
