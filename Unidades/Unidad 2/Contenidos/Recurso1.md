@@ -57,10 +57,13 @@ Las estructuras principales son:
 ---
 ### 📌 Implementación en C
 ```c
-// Secuencia básica
-instruccion_1;
-instruccion_2;
-instruccion_3;
+#include <stdio.h>
+int main(){
+    // Secuencia básica
+    instruccion_1;
+    instruccion_2;
+    instruccion_3;
+}
 ```
 
 ---
