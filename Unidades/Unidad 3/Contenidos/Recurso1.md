@@ -22,7 +22,7 @@ title: Recurso 1
 
 </div>
 
-# 🧠 Recurso 1 — **Programación Modular**
+# 🧠 Recurso 1 — Programación Modular
 
 ---
 
