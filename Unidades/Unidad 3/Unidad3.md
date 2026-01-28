@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Unidad 2
+title: Unidad 3
 ---
 
 <div align="center">
@@ -21,17 +21,22 @@ title: Unidad 2
 </a>
 </div>
 
-# 🧩 Unidad 2 — Estructuras Algorítmicas de Control
+# 🧩 Unidad 3 — Programación Modular y Estructuras de Datos Estáticas
 
 ---
 
 ## 📘 Contenidos Generales de la Unidad
 
-* Estructuras algorítmicas condicionales
-* Estructuras algorítmicas repetitivas
-* Implementación de estructuras de control en un lenguaje de programación
-* Uso de plataformas para practicar programación
-* Fundamentos de Python (curso UNL / Cisco)
+###🔹 Programación Modular
+*📦 Conceptos básicos de programación modular.
+*🧩 Uso de módulos y funciones en la resolución de problemas.
+###🔹 Programación Modular
+* 🔹 Estructuras de Datos Estáticas Básicas
+*📊 Arreglos:
+   Unidimensionales
+   Bidimensionales
+   Multidimensionales
+*🔤 Cadenas o Strings.
 
 ---
 
