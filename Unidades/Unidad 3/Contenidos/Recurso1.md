@@ -42,7 +42,7 @@ Este proceso permite dividir el programa en:
 - Procesos  
 - Funciones  
 - Rutinas  
-- Subrutinas  
+- Subrutinas 
 
 ---
 
