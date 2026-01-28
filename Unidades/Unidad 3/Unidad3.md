@@ -27,16 +27,16 @@ title: Unidad 3
 
 ## 📘 Contenidos Generales de la Unidad
 
-###🔹 Programación Modular
-*📦 Conceptos básicos de programación modular.
-*🧩 Uso de módulos y funciones en la resolución de problemas.
-###🔹 Programación Modular
-* 🔹 Estructuras de Datos Estáticas Básicas
-*📊 Arreglos:
-   Unidimensionales
-   Bidimensionales
-   Multidimensionales
-*🔤 Cadenas o Strings.
+### 🔹 Programación Modular
+- 📦 Conceptos básicos de la programación modular.
+- 🧩 Uso de módulos y funciones en la resolución de problemas.
+
+### 🔹 Estructuras de Datos Estáticas Básicas
+- 📊 **Arreglos:**
+  - Unidimensionales
+  - Bidimensionales
+  - Multidimensionales
+- 🔤 **Cadenas (Strings).**
 
 ---
 
