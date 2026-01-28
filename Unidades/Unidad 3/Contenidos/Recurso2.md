@@ -141,8 +141,8 @@ int main() {
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Botón Recurso  siguiente -->
-<a href="./Recurso2" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+<a href="./Recurso1" style="
+    background: linear-gradient(90deg, #F4511E, #FF7043);
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -152,13 +152,13 @@ int main() {
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     display: inline-block;
 ">
-Recurso 2 ➡️
+⬅️ Recurso 1
 </a>
 
 </div>
 
 <div align="center">
-<!-- Botón para volver a la Unidad 2 -->
+<!-- Botón para volver a la Unidad 3 -->
 <a href="../Unidad3" style="
     background: linear-gradient(90deg, #2E7D32, #66BB6A);
     color: white;
