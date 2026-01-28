@@ -40,7 +40,7 @@ title: Unidad 3
 
 ---
 
-## 🏫 Recursos de la Unidad 2
+## 🏫 Recursos de la Unidad 3
 
 <div align="center">
 
@@ -56,7 +56,7 @@ title: Unidad 3
  display: inline-block;
  margin: 5px;
 ">
-🧩 Recurso 1 — Estructuras algorítmicas condicionales </a>
+🧩 Recurso 1 — Programación Modular</a>
 
 <a href="./Contenidos/Recurso2" style="
  background: linear-gradient(90deg, #F4511E, #FF7043);
@@ -70,35 +70,7 @@ title: Unidad 3
  display: inline-block;
  margin: 5px;
 ">
-🐍 Recurso 2 — Curso Fundamentos de Python 1 (UNL) </a>
-
-<a href="./Contenidos/Recurso3" style="
- background: linear-gradient(90deg, #6A1B9A, #AB47BC);
- color: white;
- padding: 10px 25px;
- text-decoration: none;
- font-size: 16px;
- font-weight: bold;
- border-radius: 8px;
- box-shadow: 0 3px 8px rgba(0,0,0,0.2);
- display: inline-block;
- margin: 5px;
-">
-🖥️ Recurso 3 — Plataformas para practicar programación </a>
-
-<a href="./Contenidos/Recurso4" style="
- background: linear-gradient(90deg, #FF8F00, #FFC107);
- color: white;
- padding: 10px 25px;
- text-decoration: none;
- font-size: 16px;
- font-weight: bold;
- border-radius: 8px;
- box-shadow: 0 3px 8px rgba(0,0,0,0.2);
- display: inline-block;
- margin: 5px;
-">
-🔁 Recurso 4 — Estructuras algorítmicas repetitivas </a>
+🧩 Recurso 2 — Estructuras de Datos Estáticas Básicas</a>
 
 </div>
 
