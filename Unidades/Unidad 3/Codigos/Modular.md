@@ -200,17 +200,14 @@ void calcularValorCliente(float *total) {
 ```c
 #include <stdio.h>
 
-int main() {
-    int v[5];
+int main()
+{
+    int lista[5] = {8, 10, 7, 5, 3};
 
-    for (int i = 0; i < 5; i++) {
-        printf("Ingrese valor %d: ", i + 1);
-        scanf("%d", &v[i]);
-    }
-
-    printf("Valores ingresados:\n");
-    for (int i = 0; i < 5; i++) {
-        printf("%d ", v[i]);
+    printf("Arreglo unidimensional:\n");
+    for (int i = 0; i < 5; i++)
+    {
+        printf("Elemento en la posicion %d: %d\n", i, lista[i]);
     }
 
     return 0;
@@ -223,20 +220,30 @@ int main() {
 ```c
 #include <stdio.h>
 
-int main() {
-    int m[2][3];
+int main()
+{
+    int matriz[3][4] = {
+        {1, 5, 8, 3},
+        {2, 3, 6, 8},
+        {5, 7, 9, 4}
+    };
 
-    for (int i = 0; i < 2; i++) {
-        for (int j = 0; j < 3; j++) {
-            printf("Valor [%d][%d]: ", i, j);
-            scanf("%d", &m[i][j]);
+    printf("Elementos de la matriz:\n");
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            printf("Elemento en la posicion [%d][%d]: %d\n", i, j, matriz[i][j]);
         }
+        printf("\n");
     }
 
-    printf("Matriz:\n");
-    for (int i = 0; i < 2; i++) {
-        for (int j = 0; j < 3; j++) {
-            printf("%d ", m[i][j]);
+    printf("Matriz completa:\n");
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            printf("%d ", matriz[i][j]);
         }
         printf("\n");
     }
@@ -251,21 +258,46 @@ int main() {
 ```c
 #include <stdio.h>
 
-int main() {
-    int t[2][2][2];
+int main()
+{
+    int arreglotridimensional[2][3][2];
 
-    for (int i = 0; i < 2; i++)
-        for (int j = 0; j < 2; j++)
-            for (int k = 0; k < 2; k++) {
-                printf("Valor [%d][%d][%d]: ", i, j, k);
-                scanf("%d", &t[i][j][k]);
-            }
+    // Asignar valores capa 1
+    arreglotridimensional[0][0][0] = 1;
+    arreglotridimensional[0][0][1] = 2;
 
-    printf("Datos ingresados:\n");
+    arreglotridimensional[0][1][0] = 3;
+    arreglotridimensional[0][1][1] = 4;
+
+    arreglotridimensional[0][2][0] = 5;
+    arreglotridimensional[0][2][1] = 6;
+
+    // Asignar valores capa 2
+    arreglotridimensional[1][0][0] = 7;
+    arreglotridimensional[1][0][1] = 8;
+
+    arreglotridimensional[1][1][0] = 9;
+    arreglotridimensional[1][1][1] = 10;
+
+    arreglotridimensional[1][2][0] = 11;
+    arreglotridimensional[1][2][1] = 12;
+
+    // Mostrar valores
+    printf("Arreglo tridimensional:\n");
     for (int i = 0; i < 2; i++)
-        for (int j = 0; j < 2; j++)
+    {
+        printf("Capa %d:\n", i + 1);
+        for (int j = 0; j < 3; j++)
+        {
             for (int k = 0; k < 2; k++)
-                printf("t[%d][%d][%d] = %d\n", i, j, k, t[i][j][k]);
+            {
+                printf("Elemento en la posicion [%d][%d][%d]: %d\n",
+                       i, j, k, arreglotridimensional[i][j][k]);
+            }
+            printf("\n");
+        }
+        printf("\n");
+    }
 
     return 0;
 }
