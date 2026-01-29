@@ -103,15 +103,27 @@ title: Índice
 
 ### 📚 Referencias
 
+## 📚 Referencias
+
 [1] M. M. Arteaga Martínez, *Lógica de programación con PSeInt. Enfoque práctico*, 1ª ed., Fondo Editorial Remington, 2023. [Disponible en:](https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f)
 
-[2] E. N. Figueroa Piscoya, I. Maldonado Ramírez, y R. C. Santa Cruz Acosta, *Fundamentos de programación, un enfoque práctico*, Biblioteca Nacional del Perú, 2021. [Disponible en:](https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico)
+[2] E. N. Figueroa Piscoya, I. Maldonado Ramírez y R. C. Santa Cruz Acosta, *Fundamentos de programación: Un enfoque práctico*, Biblioteca Nacional del Perú, 2021. [Disponible en:](https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico)
 
-[3] M. Goin, *Caminando junto al Lenguaje C*, Editorial UNRN, 2022. [Disponible en:](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1)
+[3] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, *Programando en C desde la práctica: problemas resueltos*, Puerto Madero Editorial, 2023. [Disponible en:](https://dialnet.unirioja.es/servlet/libro?codigo=933288)
 
-[4] J. E. Guerra Salazar, M. V. Ramos Valencia, y G. E. Vallejo Vallejo, *Programando en C desde la práctica: problemas resueltos*, Puerto Madero Editorial, 2023. [Disponible en:](https://dialnet.unirioja.es/servlet/libro?codigo=933288)
+[4] M. Goin, *Caminando junto al lenguaje C*, Editorial UNRN, 2022. [Disponible en:](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c)
 
-[5] J. M. Toro Bonilla, *Fundamentos de Programación: JAVA*, Universidad de Sevilla, Editorial Universidad de Sevilla, 2022. [Disponible en:](https://dialnet.unirioja.es/servlet/libro?codigo=871118)
+[5] E. L. Martín Goin, *Problemas y algoritmos: Un enfoque práctico*, Editorial UNRN, 2020. [Disponible en:](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/94/problemas-y-algoritmos-un-enfoque-practico)
+
+[6] J. M. Toro Bonilla, *Fundamentos de programación: Java*, Editorial Universidad de Sevilla, Universidad de Sevilla, 2022. [Disponible en:](https://dialnet.unirioja.es/servlet/libro?codigo=871118)
+
+[7] J. M. Dueñas Meza, J. J. Valdés Benjumea y M. C. Rodríguez Niño, *Didáctica para el aprendizaje de algoritmos*, Universidad Nacional Abierta y a Distancia – UNAD, 2021. [Disponible en:](https://www.digitaliapublishing.com/a/133651/didactica-para-el-aprendizaje-de-algoritmos)
+
+[8] R. J. Celi Párraga, M. F. Bone Andrade y A. P. Mora Olivero, *Programación Web del Frontend al Backend*, Editorial Grupo AEA, 2023. [Disponible en:](https://dialnet.unirioja.es/servlet/libro?codigo=933116)
+
+[9] J. Galarza y R. Carriel, “Evolución de los sistemas de lenguaje de programación a lo largo de la historia”, *E-IDEA Journal of Engineering Science*, vol. 4, no. 10, pp. 14–26, 2022. [Disponible en:](https://revista.estudioidea.org/ojs/index.php/esci/article/view/237)
+
+[10] E. N. Figueroa Piscoya, I. Maldonado Ramírez y R. C. Santa Cruz Acosta, *Fundamentos de programación*, Biblioteca Nacional del Perú, 2021. [Disponible en:](https://virtual.autonoma.edu.pe/uploads/10-03-2023_141635939_ANICAMASILVAJOSECARLOS.pdf)
 
 ---
 
