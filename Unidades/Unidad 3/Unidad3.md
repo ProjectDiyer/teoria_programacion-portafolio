@@ -237,7 +237,7 @@ title: Unidad 3
 
 ## 💬 Reflexión Final
 
-> En esta unidad se profundizó en el uso de estructuras condicionales y repetitivas, fundamentales para controlar el flujo de un programa. La práctica guiada, autónoma y experimental permitió fortalecer el razonamiento lógico y la capacidad de resolver problemas con distintos tipos de estructuras.
+> La Unidad 3 permitió comprender la importancia de la programación modular y el uso de estructuras de datos estáticas para desarrollar programas más organizados y eficientes. Mediante la implementación de funciones y procedimientos, se fortaleció el pensamiento algorítmico y la capacidad de dividir problemas en partes más simples y reutilizables. Estas prácticas aportan una base sólida para el desarrollo de aplicaciones más estructuradas y facilitan el mantenimiento y comprensión del código.
 
 ---
 
