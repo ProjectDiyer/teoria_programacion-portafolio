@@ -17,7 +17,7 @@ title: Códigos en C — Unidad 3
     display: inline-block;
     margin-top: 20px;
 ">
-⬅️ Volver a Unidad 3
+⬅️ Volver
 </a>
 </div>
 
