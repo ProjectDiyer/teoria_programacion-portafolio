@@ -91,6 +91,7 @@ A continuación se presenta un programa completo que utiliza:
 - Arreglo tridimensional
 - Manejo de cadenas
 
+{% raw %}
 ```c
 #include <stdio.h>
 #include <string.h>
@@ -136,6 +137,7 @@ int main() {
 
     return 0;
 }
+{% raw %}
 ```
 ---
 
