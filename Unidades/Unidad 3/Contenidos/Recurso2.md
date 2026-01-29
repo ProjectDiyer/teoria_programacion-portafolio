@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Recurso 2
+liquid: false
 ---
 
 <div align="center">
