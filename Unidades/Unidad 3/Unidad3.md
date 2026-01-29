@@ -203,21 +203,6 @@ title: Unidad 3
 💻 Ejercicios en C
 </a>
 
-<a href="./Codigos/Arreglos" style="
-    background: linear-gradient(90deg, #FF5722, #FF8A65);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-💻 Ejercicio en Python
-</a>
-
 </div>
 
 ---
