@@ -80,7 +80,7 @@ title: Unidad 3
 
 <div align="center">
 
-<a href="./Lecciones/ACD1_Condicionales" style="
+<a href="./Lecciones/ACD1" style="
  background: linear-gradient(90deg, #673AB7, #9575CD);
  color: white;
  padding: 10px 25px;
@@ -92,7 +92,35 @@ title: Unidad 3
  display: inline-block;
  margin: 5px;
 ">
-📘 ACD 1 — Control de aprendizaje usando estructuras condicionales </a>
+📘 ACD 1 — Proyecto Académico Integrador </a>
+
+<a href="./Lecciones/ACD2" style="
+ background: linear-gradient(90deg, #673AB7, #9575CD);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+📘 ACD 2 — Control de aprendizaje sobre python </a>
+
+<a href="./Lecciones/ACD3" style="
+ background: linear-gradient(90deg, #673AB7, #9575CD);
+ color: white;
+ padding: 10px 25px;
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 8px;
+ box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+ display: inline-block;
+ margin: 5px;
+">
+📘 ACD 3 — Control de aprendizaje sobre modularidad y estructura de datos </a>
 
 </div>
 
@@ -102,7 +130,7 @@ title: Unidad 3
 
 <div align="center">
 
-<a href="./Actividades/APE1_Condicionales" style="
+<a href="./Actividades/APE1" style="
  background: linear-gradient(90deg, #E91E63, #F06292);
  color: white;
  padding: 10px 25px;
@@ -114,9 +142,9 @@ title: Unidad 3
  display: inline-block;
  margin: 5px;
 ">
-🧪 APE 1 — Aplicación de estructuras condicionales en resolución de problemas </a>
+🧪 APE 1 —  Construcción de funciones y procedimientos en un lenguaje de programación </a>
 
-<a href="./Actividades/APE2_Repetitivas" style="
+<a href="./Actividades/APE2" style="
  background: linear-gradient(90deg, #C2185B, #EC407A);
  color: white;
  padding: 10px 25px;
@@ -128,7 +156,7 @@ title: Unidad 3
  display: inline-block;
  margin: 5px;
 ">
-🔁 APE 2 — Aplicación de estructuras repetitivas en resolución de problemas </a>
+🔁 APE 2 — Implementación de funciones utilizando el paso de parámetros por valor y por referencia Archivo </a>
 
 </div>
 
@@ -138,7 +166,7 @@ title: Unidad 3
 
 <div align="center">
 
-<a href="./Actividades/AA1_Condicionales_Diferencias" style="
+<a href="./Actividades/AA1" style="
  background: linear-gradient(90deg, #009688, #4DB6AC);
  color: white;
  padding: 10px 25px;
@@ -150,21 +178,7 @@ title: Unidad 3
  display: inline-block;
  margin: 5px;
 ">
-📄 AA 1 — Diferencias entre tipos de estructuras condicionales </a>
-
-<a href="./Actividades/AA2_Repetitivas_Comparacion" style="
- background: linear-gradient(90deg, #00796B, #26A69A);
- color: white;
- padding: 10px 25px;
- text-decoration: none;
- font-size: 16px;
- font-weight: bold;
- border-radius: 8px;
- box-shadow: 0 3px 8px rgba(0,0,0,0.2);
- display: inline-block;
- margin: 5px;
-">
-📄 AA 2 — Cuadro comparativo de estructuras repetitivas </a>
+📄 AA 1 — Curso Fundamentos de Python 1. Computación UNL </a>
 
 </div>
 
@@ -174,7 +188,7 @@ title: Unidad 3
 
 <div align="center">
 
-<a href="./Codigos/Codigos_C" style="
+<a href="./Codigos/Modular" style="
     background: linear-gradient(90deg, #1E88E5, #42A5F5);
     color: white;
     padding: 10px 25px;
@@ -189,7 +203,7 @@ title: Unidad 3
 💻 Ejercicios en C
 </a>
 
-<a href="./Codigos/Codigos_Python" style="
+<a href="./Codigos/Arreglos" style="
     background: linear-gradient(90deg, #FF5722, #FF8A65);
     color: white;
     padding: 10px 25px;
