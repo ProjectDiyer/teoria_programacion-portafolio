@@ -71,7 +71,20 @@ El detalle completo de la actividad, incluyendo la **descripción del proyecto**
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<!-- Espacio reservado para enlaces futuros -->
+<!-- Botón ACD siguiente -->
+<a href="./ACD2" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: inline-block;
+">
+ACD 2 ➡️
+</a>
 
 </div>
 
@@ -94,4 +107,3 @@ El detalle completo de la actividad, incluyendo la **descripción del proyecto**
 </a>
 
 </div>
-
