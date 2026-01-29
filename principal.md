@@ -97,8 +97,7 @@ title: Índice
 
 ### 🧭 Conclusión
 
-> La teoría de la programación impulsa el pensamiento lógico, estructurado y creativo para la resolución de problemas a través del código.  
-> Actualmente, algunas unidades aún no están disponibles, pero pronto se actualizarán con lecciones, actividades y materiales complementarios para completar el aprendizaje.
+> La asignatura de Teoría de la Programación permitió desarrollar el pensamiento lógico y estructurado necesario para la resolución de problemas mediante la programación. A lo largo de las unidades se abordaron conceptos fundamentales como algoritmos, estructuras de control, programación modular y estructuras de datos, fortaleciendo las bases para el desarrollo de soluciones computacionales claras, eficientes y bien organizadas.
 
 ---
 
